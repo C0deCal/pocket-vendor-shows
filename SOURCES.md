@@ -1,6 +1,6 @@
 # Event sources
 
-Catalogue checked **October 20, 2026**. **40 upcoming entries**, including 11 HobbyCon dates read from official posters and 17 entries reviewed through OnTreasure and Eventbrite. Three Markham night markets have announced dates and city but no venue yet. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
+Catalogue checked **October 21, 2026**. **40 upcoming entries**, including 11 HobbyCon dates read from official posters and 17 entries reviewed through OnTreasure and Eventbrite. Three Markham night markets have announced dates and city but no venue yet. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
 
 ## Area
 

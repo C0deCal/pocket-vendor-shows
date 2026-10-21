@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "catalogue_title": "Markham & nearby GTA card shows",
-  "checked_at": "2026-10-20",
+  "checked_at": "2026-10-21",
   "events": [
     {
       "id": "uhc-mississauga-2026-10-24",
@@ -35,7 +35,8 @@
       "parking": "Free parking",
       "setup_time": "",
       "is_demo": false,
-      "archived": false
+      "archived": false,
+      "last_checked": "2026-10-21"
     },
     {
       "id": "tinetoys-mississauga-2026-10-24",
@@ -69,7 +70,8 @@
       "parking": "",
       "setup_time": "",
       "is_demo": false,
-      "archived": false
+      "archived": false,
+      "last_checked": "2026-10-21"
     },
     {
       "id": "vglx-csc-2026-10-24",
@@ -144,7 +146,8 @@
       "parking": "",
       "setup_time": "",
       "is_demo": false,
-      "archived": false
+      "archived": false,
+      "last_checked": "2026-10-21"
     },
     {
       "id": "hobby-con-night-market-markham-2026-10-29",
@@ -258,7 +261,8 @@
       "parking": "",
       "setup_time": "",
       "is_demo": false,
-      "archived": false
+      "archived": false,
+      "last_checked": "2026-10-21"
     },
     {
       "id": "nace-vaughan-2026-11-01",
@@ -290,7 +294,8 @@
       "parking": "Free parking",
       "setup_time": "",
       "is_demo": false,
-      "archived": false
+      "archived": false,
+      "last_checked": "2026-10-21"
     },
     {
       "id": "northside-mississauga-2026-11-01",
@@ -324,7 +329,8 @@
       "parking": "Paid hotel self-parking; the hotel sets the rate.",
       "setup_time": "",
       "is_demo": false,
-      "archived": false
+      "archived": false,
+      "last_checked": "2026-10-21"
     },
     {
       "id": "hobby-con-night-market-markham-2026-11-05",
@@ -418,7 +424,8 @@
       "parking": "",
       "setup_time": "",
       "is_demo": false,
-      "archived": false
+      "archived": false,
+      "last_checked": "2026-10-21"
     },
     {
       "id": "hobby-con-mississauga-2026-11-07",
@@ -492,7 +499,8 @@
       "parking": "Free parking",
       "setup_time": "",
       "is_demo": false,
-      "archived": false
+      "archived": false,
+      "last_checked": "2026-10-21"
     },
     {
       "id": "hobby-con-scarborough-2026-11-08",
@@ -565,7 +573,8 @@
       "parking": "Free parking",
       "setup_time": "",
       "is_demo": false,
-      "archived": false
+      "archived": false,
+      "last_checked": "2026-10-21"
     },
     {
       "id": "hobby-con-markham-2026-11-15",
@@ -779,7 +788,8 @@
       "parking": "Free parking",
       "setup_time": "",
       "is_demo": false,
-      "archived": false
+      "archived": false,
+      "last_checked": "2026-10-21"
     },
     {
       "id": "vaughan-con-2026-11-28",
@@ -844,7 +854,8 @@
       "parking": "Free parking",
       "setup_time": "",
       "is_demo": false,
-      "archived": false
+      "archived": false,
+      "last_checked": "2026-10-21"
     },
     {
       "id": "northside-mississauga-2026-11-29",
@@ -878,7 +889,8 @@
       "parking": "Paid hotel self-parking; the hotel sets the rate.",
       "setup_time": "",
       "is_demo": false,
-      "archived": false
+      "archived": false,
+      "last_checked": "2026-10-21"
     },
     {
       "id": "vaughan-toy-2026-11-29",
@@ -1055,7 +1067,8 @@
       "parking": "Free parking",
       "setup_time": "",
       "is_demo": false,
-      "archived": false
+      "archived": false,
+      "last_checked": "2026-10-21"
     },
     {
       "id": "hobby-con-scarborough-2026-12-20",
@@ -1520,5 +1533,5 @@
       "archived": false
     }
   ],
-  "catalogue_revision": "2026-10-20-local-4"
+  "catalogue_revision": "2026-10-21-1"
 }
