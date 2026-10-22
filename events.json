@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "catalogue_title": "Markham & nearby GTA card shows",
-  "checked_at": "2026-10-21",
+  "checked_at": "2026-10-22",
   "events": [
     {
       "id": "uhc-mississauga-2026-10-24",
@@ -36,7 +36,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-21"
+      "last_checked": "2026-10-22"
     },
     {
       "id": "tinetoys-mississauga-2026-10-24",
@@ -71,7 +71,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-21"
+      "last_checked": "2026-10-22"
     },
     {
       "id": "vglx-csc-2026-10-24",
@@ -262,7 +262,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-21"
+      "last_checked": "2026-10-22"
     },
     {
       "id": "nace-vaughan-2026-11-01",
@@ -295,7 +295,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-21"
+      "last_checked": "2026-10-22"
     },
     {
       "id": "northside-mississauga-2026-11-01",
@@ -425,7 +425,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-21"
+      "last_checked": "2026-10-22"
     },
     {
       "id": "hobby-con-mississauga-2026-11-07",
@@ -500,7 +500,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-21"
+      "last_checked": "2026-10-22"
     },
     {
       "id": "hobby-con-scarborough-2026-11-08",
@@ -574,7 +574,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-21"
+      "last_checked": "2026-10-22"
     },
     {
       "id": "hobby-con-markham-2026-11-15",
@@ -922,6 +922,41 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false
+    },
+    {
+      "id": "holonight-toronto-2026-12-04",
+      "title": "HOLONIGHT · HN01 (19+ card night)",
+      "organizer": "HOLONIGHT",
+      "city": "Toronto",
+      "province": "Ontario",
+      "venue": "The Parkdale Hall",
+      "address": "1605 Queen Street West, Suite 3, Toronto, ON M6R 1A9",
+      "start_date": "2026-12-04",
+      "end_date": "2026-12-04",
+      "start_time": "20:00",
+      "end_time": "",
+      "timezone": "America/Toronto",
+      "categories": [
+        "Pokemon",
+        "One Piece",
+        "Sports",
+        "Mixed"
+      ],
+      "admission_cents": 4000,
+      "table_fee_cents": -1,
+      "table_status": "Unknown",
+      "application_deadline": "",
+      "vendor_url": "https://www.holonight.com/",
+      "source_url": "https://www.eventbrite.ca/e/holonight-hn01-1st-edition-tickets-2000483716648",
+      "verified_at": "2026-10-22",
+      "event_status": "Scheduled",
+      "description": "19+ trading-card night (Pokémon, One Piece, sports cards) with nightlife. Doors 8 pm, runs until 2 am Saturday; the trade floor with shops, breakers and collectors at tables runs 8–10 pm. Government photo ID required. Tickets: early bird C$25 (150 tickets, until Oct 31), then C$40 general (4 for C$140), C$50 at the door; all-in prices, no refunds. Vendor/sponsor tables by enquiry to the organizer; table prices not published.",
+      "daily_hours": [],
+      "parking": "",
+      "setup_time": "",
+      "is_demo": false,
+      "archived": false,
+      "last_checked": "2026-10-22"
     },
     {
       "id": "gta-markham-2026-12-05",
@@ -1533,5 +1568,5 @@
       "archived": false
     }
   ],
-  "catalogue_revision": "2026-10-21-1"
+  "catalogue_revision": "2026-10-22-1"
 }

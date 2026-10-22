@@ -1,6 +1,6 @@
 # Event sources
 
-Catalogue checked **October 21, 2026**. **40 upcoming entries**, including 11 HobbyCon dates read from official posters and 17 entries reviewed through OnTreasure and Eventbrite. Three Markham night markets have announced dates and city but no venue yet. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
+Catalogue checked **October 22, 2026**. **41 upcoming entries**, including 11 HobbyCon dates read from official posters and 17 entries reviewed through OnTreasure and Eventbrite. Three Markham night markets have announced dates and city but no venue yet. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
 
 ## Area
 
@@ -37,6 +37,7 @@ The former Brampton CardFesta record remains available in existing installations
 | HobbyVerse · Holiday Sunday | Markham | 2026-11-29 | [Organizer listing](https://www.eventbrite.com/e/hobbyverse-expo-holiday-edition-tickets-2003620817802) |
 | Northside TCG · Mississauga | Mississauga | 2026-11-29 | [Organizer listing](https://www.northsidetcg.com/shows/2026-11-29) |
 | Vaughan Toy & Nostalgia Show | Vaughan | 2026-11-29 | [Organizer listing](https://vaughantoyshow.com/) |
+| HOLONIGHT · HN01 (19+) | Toronto | 2026-12-04 | [Organizer listing](https://www.eventbrite.ca/e/holonight-hn01-1st-edition-tickets-2000483716648) |
 | GTA Card Show · Christmas | Markham | 2026-12-05 – 2026-12-06 | [Organizer listing](https://www.ontreasure.com/events/gta-card-show-christmas-12052026) |
 | HobbyCon · Mississauga | Mississauga | 2026-12-12 | [Organizer listing](https://hobbyconevents.com/events-schedule) |
 | HobbyCon · Night Market · venue TBA | Markham | 2026-12-17 | [Organizer listing](https://hobbyconevents.com/events-schedule) |
@@ -67,6 +68,7 @@ Review the organizer's website, Eventbrite listing and OnTreasure event/table pa
 - Other advertised table prices are starting prices, not an assertion of current stock or total checkout cost. Table status remains Unknown unless availability was inspected. Prices and availability are snapshots.
 - True North's rendered live page confirms January 16, 2027; its static HTML still says TBA.
 - CanGeek uses the organizer's Kijiji announcement and written local hours. Shiny Cardboard is in North York. NACE's detailed venue is Bellvue, Concord, despite an old Brampton overview.
+- **HOLONIGHT:** Eventbrite and [holonight.com](https://www.holonight.com/) agree on Friday December 4, 8 pm–2 am, at The Parkdale Hall, 19+. The entry ends the same day with no end time so the app does not show it as a two-day show; the 2 am close is in the description. Admission shown is the C$40 general price; early bird C$25 ends October 31.
 - Mixed collectible conventions are labeled as such. Weekly store tournaments and small trade nights are excluded.
 
 ## Organizer leads awaiting confirmation
@@ -75,6 +77,14 @@ These are accessible under **More local organizers** and are not calendar entrie
 
 
 - [NCX / The Show](https://theshowcanada.ca/pages/the-show-inc): Directories list November 22 and December 13 at Frameworth. Official next-event page still shows May 30, 2026 at Markham Fairgrounds.
+
+- HobbyCon TCG Expo (Mississauga Convention Centre, 75 Derry Rd W): TCDB and tcgshowsnearme list January 15–17 and March 19–21, 2027 (plus a "Hobbycon Ontario Expo 2027" dated December 3–5, 2026, likely a date-entry error), citing HobbyCon Facebook posts. Not yet confirmed on hobbyconevents.com or a ticketing page.
+
+- Nostalgia Fest Halloween Show, Square One Event Hall, Mississauga: TCDB lists October 31–November 1, 2026; the organizer's Eventbrite only shows the past October 9–11 expo.
+
+- Vaughan Sports Card Classic, 360 Soccer Centre: TCDB lists December 19, 2026; no organizer page found.
+
+- Northern Grails / Grails After Dark Friday night shows, Burrows Hall, Scarborough: TCDB lists October 23, 2026 (Instagram only).
 
 - [Northside TCG](https://www.northsidetcg.com/): December 12, 2026 is announced, but its city, venue and hours are still unpublished; the local-area boundary cannot yet be verified. November dates are already in the calendar.
 
