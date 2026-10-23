@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "catalogue_title": "Markham & nearby GTA card shows",
-  "checked_at": "2026-10-22",
+  "checked_at": "2026-10-23",
   "events": [
     {
       "id": "uhc-mississauga-2026-10-24",
@@ -1568,5 +1568,5 @@
       "archived": false
     }
   ],
-  "catalogue_revision": "2026-10-22-2"
+  "catalogue_revision": "2026-10-23-1"
 }
