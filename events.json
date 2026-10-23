@@ -36,7 +36,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-22"
+      "last_checked": "2026-10-23"
     },
     {
       "id": "tinetoys-mississauga-2026-10-24",
@@ -71,7 +71,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-22"
+      "last_checked": "2026-10-23"
     },
     {
       "id": "vglx-csc-2026-10-24",
@@ -262,7 +262,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-22"
+      "last_checked": "2026-10-23"
     },
     {
       "id": "nace-vaughan-2026-11-01",
@@ -295,7 +295,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-22"
+      "last_checked": "2026-10-23"
     },
     {
       "id": "northside-mississauga-2026-11-01",
@@ -324,13 +324,13 @@
       "source_url": "https://www.northsidetcg.com/shows/2026-11-01",
       "verified_at": "2026-10-20",
       "event_status": "Scheduled",
-      "description": "An indoor show for Pokemon, sports cards, One Piece, Magic and other collectibles. Attendee admission is free. Vendor booking uses the organizer's access-code page; obtain current availability and a booking code directly from Northside.",
+      "description": "An indoor show for Pokemon, sports cards, One Piece, Magic and other collectibles. Attendee admission is free. Vendor booking uses the organizer's access-code page; obtain current availability and a booking code directly from Northside. Venue conflict: northsidetcg.com lists Hilton Mississauga/Meadowvale, but Northside's own Eventbrite listing (https://www.eventbrite.com/e/northside-tcg-card-show-mississauga-sun-nov-1-free-entry-tickets-2002575527310) gives Hyatt Place Toronto/Mississauga Centre, 5787 Hurontario Street. Confirm with the organizer before travelling.",
       "daily_hours": [],
       "parking": "Paid hotel self-parking; the hotel sets the rate.",
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-21"
+      "last_checked": "2026-10-23"
     },
     {
       "id": "hobby-con-night-market-markham-2026-11-05",
@@ -425,7 +425,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-22"
+      "last_checked": "2026-10-23"
     },
     {
       "id": "hobby-con-mississauga-2026-11-07",
@@ -500,7 +500,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-22"
+      "last_checked": "2026-10-23"
     },
     {
       "id": "hobby-con-scarborough-2026-11-08",
@@ -574,7 +574,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-22"
+      "last_checked": "2026-10-23"
     },
     {
       "id": "hobby-con-markham-2026-11-15",
@@ -789,7 +789,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-21"
+      "last_checked": "2026-10-23"
     },
     {
       "id": "vaughan-con-2026-11-28",
@@ -855,7 +855,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-21"
+      "last_checked": "2026-10-23"
     },
     {
       "id": "northside-mississauga-2026-11-29",
@@ -890,7 +890,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-21"
+      "last_checked": "2026-10-23"
     },
     {
       "id": "vaughan-toy-2026-11-29",
@@ -956,7 +956,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-22"
+      "last_checked": "2026-10-23"
     },
     {
       "id": "gta-markham-2026-12-05",
@@ -1103,7 +1103,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-21"
+      "last_checked": "2026-10-23"
     },
     {
       "id": "hobby-con-scarborough-2026-12-20",
@@ -1568,5 +1568,5 @@
       "archived": false
     }
   ],
-  "catalogue_revision": "2026-10-23-1"
+  "catalogue_revision": "2026-10-23-2"
 }
