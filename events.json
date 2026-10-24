@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "catalogue_title": "Markham & nearby GTA card shows",
-  "checked_at": "2026-10-23",
+  "checked_at": "2026-10-24",
   "events": [
     {
       "id": "uhc-mississauga-2026-10-24",
@@ -36,7 +36,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-23"
+      "last_checked": "2026-10-24"
     },
     {
       "id": "tinetoys-mississauga-2026-10-24",
@@ -71,7 +71,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-23"
+      "last_checked": "2026-10-24"
     },
     {
       "id": "vglx-csc-2026-10-24",
@@ -262,7 +262,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-23"
+      "last_checked": "2026-10-24"
     },
     {
       "id": "nace-vaughan-2026-11-01",
@@ -295,7 +295,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-23"
+      "last_checked": "2026-10-24"
     },
     {
       "id": "northside-mississauga-2026-11-01",
@@ -330,7 +330,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-23"
+      "last_checked": "2026-10-24"
     },
     {
       "id": "hobby-con-night-market-markham-2026-11-05",
@@ -500,7 +500,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-23"
+      "last_checked": "2026-10-24"
     },
     {
       "id": "hobby-con-scarborough-2026-11-08",
@@ -574,7 +574,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-23"
+      "last_checked": "2026-10-24"
     },
     {
       "id": "hobby-con-markham-2026-11-15",
@@ -1568,5 +1568,5 @@
       "archived": false
     }
   ],
-  "catalogue_revision": "2026-10-23-2"
+  "catalogue_revision": "2026-10-24-1"
 }
