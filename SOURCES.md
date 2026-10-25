@@ -1,6 +1,6 @@
 # Event sources
 
-Catalogue checked **October 24, 2026**. **52 upcoming entries** across the Greater Toronto and Hamilton Area, including HobbyCon dates read from official posters and entries reviewed through OnTreasure, Eventbrite and organizer websites. Three Markham night markets have announced dates and city but no venue yet. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
+Catalogue checked **October 25, 2026**. **52 upcoming entries** across the Greater Toronto and Hamilton Area, including HobbyCon dates read from official posters and entries reviewed through OnTreasure, Eventbrite and organizer websites. Three Markham night markets have announced dates and city but no venue yet. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
 
 ## Area
 
@@ -96,7 +96,7 @@ These are accessible under **More local organizers** and are not calendar entrie
 
 - HobbyCon TCG Expo (Mississauga Convention Centre, 75 Derry Rd W): TCDB and tcgshowsnearme list January 15–17 and March 19–21, 2027 (plus a "Hobbycon Ontario Expo 2027" dated December 3–5, 2026, likely a date-entry error), citing HobbyCon Facebook posts. Not yet confirmed on hobbyconevents.com or a ticketing page.
 
-- Nostalgia Fest Halloween Show, Square One Event Hall, Mississauga: TCDB lists October 31–November 1, 2026; the organizer's Eventbrite only shows the past October 9–11 expo.
+- Nostalgia Fest Halloween Show, Square One Event Hall, Mississauga: TCDB lists October 31–November 1, 2026; cardshowdirectory (checked October 25, 2026) cites an Eventbrite page (event 2003686564452, "free 3-day") that could not be opened from the updater, so dates and hours are not yet confirmed.
 
 - Vaughan Sports Card Classic, 360 Soccer Centre: TCDB lists December 19, 2026; no organizer page found.
 
@@ -108,7 +108,7 @@ These are accessible under **More local organizers** and are not calendar entrie
 
 - Georgetown Card Show (4 Mint Corners), Georgetown (Halton Hills): TCDB and tcgshowsnearme list October 24 and December 5, 2026; no organizer page.
 
-- PRO-TECT Hobby Expo, Upper Canada Mall, Newmarket: TCDB and cardshowdirectory list November 27–29, 2026; no organizer page yet.
+- PRO-TECT Hobby Expo, Upper Canada Mall, Newmarket: TCDB and cardshowdirectory list November 27–29, 2026; cardshowdirectory names hobbyexpo.ca as the show website, but it could not be opened on October 25, 2026 (OnTreasure only has the past July 10–12 expo).
 
 - CollectiCon Hamilton, Carmen's Event Centre: tcgshowsnearme and ontariotoyshows list December 26, 2026, 9:30 am–2 pm, $5 (one Facebook post). Pokesats also lists CollectiCon dates in Stoney Creek (October 25, December 13) and Hamilton (November 15).
 
