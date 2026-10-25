@@ -114,6 +114,8 @@ These are accessible under **More local organizers** and are not calendar entrie
 
 - Steeltown Card Show, Copetown Community Centre (Hamilton): TCDB lists November 29, 2026.
 
+- Card Yard "Game Day" Card Show, CAA Centre, Brampton: PokéSats lists November 15, 2026 (found October 24, 2026, evening check); no Card Yard OnTreasure or organizer page found yet.
+
 - HobbyCon Scarborough TCG Expo, Scarborough Convention Centre: TCDB lists February 19–21, 2027.
 
 - Bowmanville and Whitby ComiCon (Pop Culture Canada): Roster Con lists February 21 and February 28, 2027; no organizer page yet.
