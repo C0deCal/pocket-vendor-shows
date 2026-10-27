@@ -1,6 +1,6 @@
 # Event sources
 
-Catalogue checked **October 27, 2026**. **53 upcoming entries** across the Greater Toronto and Hamilton Area, including HobbyCon dates read from official posters and entries reviewed through OnTreasure, Eventbrite and organizer websites. Three Markham night markets have announced dates and city but no venue yet. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
+Catalogue checked **October 27, 2026**. **55 upcoming entries** across the Greater Toronto and Hamilton Area, including HobbyCon dates read from official posters and entries reviewed through OnTreasure, Eventbrite and organizer websites. Three Markham night markets have announced dates and city but no venue yet. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
 
 ## Area
 
@@ -46,6 +46,7 @@ Brampton is inside the area again since October 24, 2026, so the older Brampton 
 | HobbyVerse · Holiday Sunday | Markham | 2026-11-29 | [Organizer listing](https://www.eventbrite.com/e/hobbyverse-expo-holiday-edition-tickets-2003620817802) |
 | Northside TCG · Mississauga | Mississauga | 2026-11-29 | [Organizer listing](https://www.northsidetcg.com/shows/2026-11-29) |
 | Vaughan Toy & Nostalgia Show | Vaughan | 2026-11-29 | [Organizer listing](https://vaughantoyshow.com/) |
+| CSC · Anniversary Show | Mississauga | 2026-12-04 – 2026-12-06 | [Organizer listing](https://csceventhq.com/) |
 | HOLONIGHT · HN01 (19+) | Toronto | 2026-12-04 | [Organizer listing](https://www.eventbrite.ca/e/holonight-hn01-1st-edition-tickets-2000483716648) |
 | GTA Card Show · Christmas | Markham | 2026-12-05 – 2026-12-06 | [Organizer listing](https://www.ontreasure.com/events/gta-card-show-christmas-12052026) |
 | Ancaster Nostalgia & Vintage Toy Show | Hamilton | 2026-12-06 | [Organizer listing](https://collectorshows.ca/shows/) |
@@ -61,6 +62,7 @@ Brampton is inside the area again since October 24, 2026, so the older Brampton 
 | Card Yard · Erin Mills Town Centre | Mississauga | 2027-01-16 – 2027-01-17 | [Organizer listing](https://www.ontreasure.com/events/card-yard-erin-mills-mall-01162027) |
 | True North · Winter Expo | Markham | 2027-01-16 | [Organizer listing](https://truenorthcardexpo.ca/) |
 | Card Yard · Vaughan Mills | Vaughan | 2027-02-06 – 2027-02-07 | [Organizer listing](https://www.ontreasure.com/events/card-yard-in-vaughan-mills-02062027) |
+| CSC · The Collectors Supershow | Mississauga | 2027-02-12 – 2027-02-14 | [Organizer listing](https://csceventhq.com/) |
 | Card Yard · Erin Mills Town Centre | Mississauga | 2027-02-27 – 2027-02-28 | [Organizer listing](https://www.ontreasure.com/events/card-yard-erin-mills-mall-02272027) |
 | Card Yard · Vaughan Mills | Vaughan | 2027-03-06 – 2027-03-07 | [Organizer listing](https://www.ontreasure.com/events/card-yard-in-vaughan-mills-03062027) |
 | Card Yard · Erin Mills Town Centre | Mississauga | 2027-03-13 – 2027-03-14 | [Organizer listing](https://www.ontreasure.com/events/card-yard-erin-mills-mall-03132027) |
@@ -87,6 +89,7 @@ Review the organizer's website, Eventbrite listing and OnTreasure event/table pa
 - **Ancaster (Hamilton):** [collectorshows.ca](https://collectorshows.ca/shows/) lists the Toy & Collectibles Expos (November 22, December 13) and the Nostalgia & Vintage Toy Show (December 6). The Ancaster Fair calendar shows December 20 instead of December 13; the organizer's date is used and the conflict is in the description.
 - **Ajax and Oshawa ComiCon:** Pop Culture Canada's Eventbrite pages confirm the dates; they are mixed pop-culture shows whose listings say vendors sell sports cards.
 - **Card Yard · OHL Card Show (Brampton):** OnTreasure's Ontario listing shows Card Yard's OHL Card Show on Sunday, November 15, 2026 in Brampton (event page ohl-card-show-11152026, added October 27, 2026). The CAA Centre venue comes from cardshowdirectory (which cites that OnTreasure page) and PokéSats; the detail page could not be opened, so hours, admission and table prices stay unknown.
+- **CSC (Canada Super Collectibles):** CSC's events page lists the December Anniversary Show (December 4–6, 2026) and The Collectors Supershow (February 12–14, 2027), both at The International Centre, Mississauga, with a free online admission ticket for the December show. Hours, hall, door prices, table prices and the card mix are unpublished, so they stay unknown; CSC runs sports-card and TCG trade shows. Its IDOLVERSE (December 19, 2026, Hilton Toronto Markham) is a K-pop event and is excluded. Added October 27, 2026 (run 2).
 - Mixed collectible conventions are labeled as such. Weekly store tournaments and small trade nights are excluded.
 
 ## Organizer leads awaiting confirmation
@@ -100,7 +103,11 @@ These are accessible under **More local organizers** and are not calendar entrie
 
 - Nostalgia Fest Halloween Show, Square One Event Hall, Mississauga: TCDB lists October 31–November 1, 2026; cardshowdirectory (checked October 25, 2026) cites an Eventbrite page (event 2003686564452, "free 3-day") that could not be opened from the updater, so dates and hours are not yet confirmed.
 
-- Vaughan Sports Card Classic, 360 Soccer Centre: TCDB lists December 19, 2026; no organizer page found.
+- Vaughan Sports Card Classic (Allstar Cards, Comics and Collectibles), 7551 Jane St (360 Soccer Centre): TCDB and sportscardsnearme list December 19, 2026; no organizer page found.
+
+- The Cardboard Culture Card Show, Caledon Centre, 14111 Hwy 50, Bolton (Caledon): tcgshowsnearme lists Saturday November 14, 2026, 11 am–7 pm, free, citing an Instagram post that could not be opened on October 27, 2026. Not to be confused with the Connecticut organizer Cardboard Culture Card Shows.
+
+- Collectex 2026 (Burlington): Tourism Burlington lists a one-day Pokémon, sports and TCG card show with 50+ vendors but no date or venue (checked October 27, 2026).
 
 - Northern Grails / Grails After Dark Friday night shows, Burrows Hall, Scarborough: TCDB lists October 23, 2026 (Instagram only).
 

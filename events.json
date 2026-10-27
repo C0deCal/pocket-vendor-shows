@@ -1316,6 +1316,40 @@
       "last_checked": "2026-10-23"
     },
     {
+      "id": "csc-anniversary-mississauga-2026-12-04",
+      "title": "CSC · Anniversary Show",
+      "organizer": "Canada Super Collectibles (CSC)",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "venue": "The International Centre",
+      "address": "6900 Airport Rd, Mississauga, ON L4V 1E8",
+      "start_date": "2026-12-04",
+      "end_date": "2026-12-06",
+      "start_time": "",
+      "end_time": "",
+      "timezone": "America/Toronto",
+      "categories": [
+        "Sports",
+        "Mixed"
+      ],
+      "admission_cents": -1,
+      "table_fee_cents": -1,
+      "table_status": "Unknown",
+      "application_deadline": "",
+      "vendor_url": "https://csceventhq.com/vendor-application/",
+      "source_url": "https://csceventhq.com/",
+      "verified_at": "2026-10-27",
+      "last_checked": "2026-10-27",
+      "event_status": "Scheduled",
+      "daily_hours": [],
+      "parking": "",
+      "setup_time": "",
+      "is_demo": false,
+      "archived": false,
+      "venue_pending": false,
+      "description": "Canada Super Collectibles' December Anniversary Show. CSC's event page lists December 4–6, 2026 at The International Centre and offers a free online admission ticket; door prices, daily hours, hall and the exact card mix are not yet published (CSC runs sports-card and TCG trade shows). Check the organizer's page before going."
+    },
+    {
       "id": "gta-markham-2026-12-05",
       "title": "GTA Card Show · Christmas",
       "organizer": "GTA Card Show",
@@ -1857,6 +1891,40 @@
       "archived": false
     },
     {
+      "id": "csc-collectors-supershow-mississauga-2027-02-12",
+      "title": "CSC · The Collectors Supershow",
+      "organizer": "Canada Super Collectibles (CSC)",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "venue": "The International Centre",
+      "address": "6900 Airport Rd, Mississauga, ON L4V 1E8",
+      "start_date": "2027-02-12",
+      "end_date": "2027-02-14",
+      "start_time": "",
+      "end_time": "",
+      "timezone": "America/Toronto",
+      "categories": [
+        "Sports",
+        "Mixed"
+      ],
+      "admission_cents": -1,
+      "table_fee_cents": -1,
+      "table_status": "Unknown",
+      "application_deadline": "",
+      "vendor_url": "https://csceventhq.com/vendor-application/",
+      "source_url": "https://csceventhq.com/",
+      "verified_at": "2026-10-27",
+      "last_checked": "2026-10-27",
+      "event_status": "Scheduled",
+      "daily_hours": [],
+      "parking": "",
+      "setup_time": "",
+      "is_demo": false,
+      "archived": false,
+      "venue_pending": false,
+      "description": "Canada Super Collectibles' Collectors Supershow (the 2026 edition was co-presented with Toronto Sport Card Expo). CSC's event page lists February 12–14, 2027 at The International Centre; daily hours, admission, hall and table prices are not yet published."
+    },
+    {
       "id": "card-yard-mississauga-2027-02-27",
       "title": "Card Yard · Erin Mills Town Centre",
       "organizer": "Card Yard",
@@ -2026,5 +2094,5 @@
       "archived": false
     }
   ],
-  "catalogue_revision": "2026-10-27-1"
+  "catalogue_revision": "2026-10-27-2"
 }
