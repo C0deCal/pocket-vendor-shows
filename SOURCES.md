@@ -1,6 +1,6 @@
 # Event sources
 
-Catalogue checked **October 26, 2026**. **52 upcoming entries** across the Greater Toronto and Hamilton Area, including HobbyCon dates read from official posters and entries reviewed through OnTreasure, Eventbrite and organizer websites. Three Markham night markets have announced dates and city but no venue yet. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
+Catalogue checked **October 27, 2026**. **53 upcoming entries** across the Greater Toronto and Hamilton Area, including HobbyCon dates read from official posters and entries reviewed through OnTreasure, Eventbrite and organizer websites. Three Markham night markets have announced dates and city but no venue yet. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
 
 ## Area
 
@@ -36,6 +36,7 @@ Brampton is inside the area again since October 24, 2026, so the older Brampton 
 | HobbyCon · Markham | Markham | 2026-11-15 | [Organizer listing](https://hobbyconevents.com/events-schedule) |
 | HobbyCon · Vaughan | Vaughan | 2026-11-15 | [Organizer listing](https://hobbyconevents.com/events-schedule) |
 | Mississauga Card Show | Mississauga | 2026-11-15 | [Organizer listing](https://www.ontreasure.com/events/mississauga-card-show-11012026) |
+| Card Yard · OHL Card Show | Brampton | 2026-11-15 | [Organizer listing](https://www.ontreasure.com/events/ohl-card-show-11152026) |
 | CardFesta · Winter Expo | Brampton | 2026-11-20 – 2026-11-22 | [Organizer listing](https://www.cardfesta.com/upcoming-events/winter-expo) |
 | Mississauga Cards & Collectibles · Fall | Mississauga | 2026-11-21 | [Organizer listing](https://www.ontreasure.com/events/free-mississauga-cards-collectibles-show-fall-edition-by-united-hobby-collective-11212026) |
 | Ancaster Toy & Collectibles Expo | Hamilton | 2026-11-22 | [Organizer listing](https://collectorshows.ca/sunday-november-22nd-the-ancaster-toy-and-collectibles-expo/) |
@@ -85,6 +86,7 @@ Review the organizer's website, Eventbrite listing and OnTreasure event/table pa
 - **CardFesta · Winter Expo (Brampton):** CardFesta's own event page and its Eventbrite page agree on November 20–22 at Bramalea City Centre and the daily hours.
 - **Ancaster (Hamilton):** [collectorshows.ca](https://collectorshows.ca/shows/) lists the Toy & Collectibles Expos (November 22, December 13) and the Nostalgia & Vintage Toy Show (December 6). The Ancaster Fair calendar shows December 20 instead of December 13; the organizer's date is used and the conflict is in the description.
 - **Ajax and Oshawa ComiCon:** Pop Culture Canada's Eventbrite pages confirm the dates; they are mixed pop-culture shows whose listings say vendors sell sports cards.
+- **Card Yard · OHL Card Show (Brampton):** OnTreasure's Ontario listing shows Card Yard's OHL Card Show on Sunday, November 15, 2026 in Brampton (event page ohl-card-show-11152026, added October 27, 2026). The CAA Centre venue comes from cardshowdirectory (which cites that OnTreasure page) and PokéSats; the detail page could not be opened, so hours, admission and table prices stay unknown.
 - Mixed collectible conventions are labeled as such. Weekly store tournaments and small trade nights are excluded.
 
 ## Organizer leads awaiting confirmation
@@ -113,8 +115,6 @@ These are accessible under **More local organizers** and are not calendar entrie
 - CollectiCon Hamilton, Carmen's Event Centre: tcgshowsnearme and ontariotoyshows list December 26, 2026, 9:30 am–2 pm, $5 (one Facebook post). Pokesats also lists CollectiCon dates in Stoney Creek (October 25, December 13) and Hamilton (November 15).
 
 - Steeltown Card Show, Copetown Community Centre (Hamilton): TCDB lists November 29, 2026.
-
-- Card Yard "Game Day" Card Show, CAA Centre, Brampton: PokéSats lists November 15, 2026 (found October 24, 2026, evening check); no Card Yard OnTreasure or organizer page found yet.
 
 - HobbyCon Scarborough TCG Expo, Scarborough Convention Centre: TCDB lists February 19–21, 2027.
 

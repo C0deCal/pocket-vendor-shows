@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "catalogue_title": "GTA & Hamilton card shows",
-  "checked_at": "2026-10-26",
+  "checked_at": "2026-10-27",
   "events": [
     {
       "id": "hobby-con-ajax-2026-10-24",
@@ -919,6 +919,44 @@
       "archived": false,
       "last_checked": "2026-10-24",
       "venue_pending": false
+    },
+    {
+      "id": "card-yard-brampton-2026-11-15",
+      "title": "Card Yard · OHL Card Show",
+      "organizer": "Card Yard",
+      "city": "Brampton",
+      "province": "Ontario",
+      "venue": "CAA Centre",
+      "address": "Kennedy Road South, Brampton, ON",
+      "venue_pending": false,
+      "start_date": "2026-11-15",
+      "end_date": "2026-11-15",
+      "start_time": "",
+      "end_time": "",
+      "timezone": "America/Toronto",
+      "categories": [
+        "Sports"
+      ],
+      "admission_cents": -1,
+      "table_fee_cents": -1,
+      "table_status": "Unknown",
+      "application_deadline": "",
+      "vendor_url": "https://www.ontreasure.com/events/ohl-card-show-11152026",
+      "source_url": "https://www.ontreasure.com/events/ohl-card-show-11152026",
+      "verified_at": "2026-10-27",
+      "last_checked": "2026-10-27",
+      "event_status": "Scheduled",
+      "description": "Card Yard's OnTreasure listing confirms the OHL Card Show in Brampton on Sunday, November 15, 2026. The CAA Centre venue (home of the OHL Brampton Steelheads; the show runs alongside a game that day) comes from cardshowdirectory and PokéSats, which agree; the booking page itself could not be opened. Hours, admission and table prices are not confirmed.",
+      "daily_hours": [],
+      "parking": "",
+      "setup_time": "",
+      "is_demo": false,
+      "archived": false,
+      "table_booking_open_date": "",
+      "table_booking_source_url": "",
+      "popularity": "Unknown",
+      "popularity_note": "",
+      "popularity_source_url": ""
     },
     {
       "id": "cardfesta-winter-expo-brampton-2026-11-20",
@@ -1988,5 +2026,5 @@
       "archived": false
     }
   ],
-  "catalogue_revision": "2026-10-26-2"
+  "catalogue_revision": "2026-10-27-1"
 }
