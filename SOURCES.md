@@ -1,6 +1,6 @@
 # Event sources
 
-Catalogue checked **October 28, 2026**. **56 upcoming entries** across the Greater Toronto and Hamilton Area, including HobbyCon dates read from official posters and entries reviewed through OnTreasure, Eventbrite and organizer websites. Two Markham night markets (November 5, December 17) have announced dates and city but no venue yet; the October 29 one is confirmed at New Jaasmin. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
+Catalogue checked **October 28, 2026** (run 2). **57 upcoming entries** across the Greater Toronto and Hamilton Area, including HobbyCon dates read from official posters and entries reviewed through OnTreasure, Eventbrite and organizer websites. Two Markham night markets (November 5, December 17) have announced dates and city but no venue yet; the October 29 one is confirmed at New Jaasmin. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
 
 ## Area
 
@@ -34,6 +34,7 @@ Brampton is inside the area again since October 24, 2026, so the older Brampton 
 | Downtown Newmarket TCG & Toy Show | Newmarket | 2026-11-14 | [Organizer listing](https://www.ontreasure.com/events/downtown-newmarket-tcg-and-toy-show-11142026) |
 | Shiny Cardboard Expo | North York | 2026-11-14 | [Organizer listing](https://www.eventbrite.ca/e/shiny-cardboard-expo-tickets-2002306346182) |
 | Ajax ComiCon | Ajax | 2026-11-15 | [Organizer listing](https://www.eventbrite.ca/e/ajax-comicon-november-15th-2026-comic-con-tickets-1980584259837) |
+| NACE · Grand Victorian Card Show | Mississauga | 2026-11-14 – 2026-11-15 | [Organizer listing](https://www.ontreasure.com/events/nace-free-pokemon-and-sports-card-event-11142026) |
 | HobbyCon · Markham | Markham | 2026-11-15 | [Organizer listing](https://hobbyconevents.com/events-schedule) |
 | HobbyCon · Vaughan | Vaughan | 2026-11-15 | [Organizer listing](https://hobbyconevents.com/events-schedule) |
 | Mississauga Card Show | Mississauga | 2026-11-15 | [Organizer listing](https://www.ontreasure.com/events/mississauga-card-show-11012026) |
@@ -92,6 +93,8 @@ Review the organizer's website, Eventbrite listing and OnTreasure event/table pa
 - **Card Yard · OHL Card Show (Brampton):** OnTreasure's Ontario listing shows Card Yard's OHL Card Show on Sunday, November 15, 2026 in Brampton (event page ohl-card-show-11152026, added October 27, 2026). The CAA Centre venue comes from cardshowdirectory (which cites that OnTreasure page) and PokéSats; the detail page could not be opened, so hours, admission and table prices stay unknown.
 - **CSC (Canada Super Collectibles):** CSC's events page lists the December Anniversary Show (December 4–6, 2026) and The Collectors Supershow (February 12–14, 2027), both at The International Centre, Mississauga, with a free online admission ticket for the December show. Hours, hall, door prices, table prices and the card mix are unpublished, so they stay unknown; CSC runs sports-card and TCG trade shows. Its IDOLVERSE (December 19, 2026, Hilton Toronto Markham) is a K-pop event and is excluded. Added October 27, 2026 (run 2).
 - **Nostalgia Fest · Halloween at Square One (Mississauga):** the organizer's Eventbrite page (event 2003686564452), opened October 28, 2026, confirms Saturday October 31 – Sunday November 1, 11 am–6 pm, at Square One, 199 Rathburn Road West, free entry and free parking. Its title says "3Day" but only two days are listed; the exact hall inside Square One, vendor mix and table prices are unpublished. Added October 28, 2026.
+- **NACE · Grand Victorian Card Show (Mississauga):** OnTreasure's Ontario listing (event page nace-free-pokemon-and-sports-card-event-11142026, opened October 28, 2026, run 2) confirms a free NACE (North American Card Exchange) Pokémon and sports-card show on Saturday–Sunday November 14–15, 2026 at the Grand Victorian Convention Centre, Mississauga. Daily hours, street address and table prices are not published, so they stay blank/unknown. Separate from NACE's November 1 Vaughan show.
+- **Northside TCG November 1:** re-checked October 28, 2026 (run 2). northsidetcg.com still lists Hilton Mississauga/Meadowvale while Northside's Eventbrite still lists Hyatt Place Toronto/Mississauga Centre, 5787 Hurontario St; the conflict stays in the description. tcgshowsnearme gives 6415 Edwards Blvd for November 29, which the organizer site does not confirm.
 - Mixed collectible conventions are labeled as such. Weekly store tournaments and small trade nights are excluded.
 
 ## Organizer leads awaiting confirmation
@@ -107,7 +110,15 @@ These are accessible under **More local organizers** and are not calendar entrie
 
 - The Cardboard Culture Card Show, Caledon Centre, 14111 Hwy 50, Bolton (Caledon): tcgshowsnearme lists Saturday November 14, 2026, 11 am–7 pm, free, citing an Instagram post that could not be opened on October 27, 2026. Not to be confused with the Connecticut organizer Cardboard Culture Card Shows.
 
-- Collectex 2026 (Burlington): Tourism Burlington lists a one-day Pokémon, sports and TCG card show with 50+ vendors but no date or venue (checked October 27, 2026).
+- Collectex 2026 (Burlington): Tourism Burlington lists a one-day Pokémon, sports and TCG card show with 50+ vendors but no date or venue (checked October 27, 2026). OnTreasure has a COLLECTEX: Burlington listing dated September 19, 2026 (already past), which is probably the same show.
+
+- HobbyCon Hamilton, Michelangelo Banquet Centre, 1555 Upper Ottawa St: cardshowdirectory (updated October 27, 2026) lists Sunday November 1, 2026, citing HobbyCon's Eventbrite page "HOBBY CON HAMILTON NOVEMBER 1" (event 2003966127633). That Eventbrite page could not be opened on October 28, 2026 (run 2), and the Hamilton date is not on hobbyconevents.com's homepage, so it is not yet a calendar entry. Re-check urgently: it is this Sunday.
+
+- Card Yard at Dixie Outlet Mall (Mississauga): PokéSats lists December 19–20, 2026; no OnTreasure or Card Yard page found yet (checked October 28, 2026).
+
+- HobbyCon Oakville, Era Event Venue, 2496 Bristol Circle: Eventbrite's Caledon card-show search shows a "HobbyCon Oakville TCG Card Show" for an upcoming Sunday at 10 am, but the exact date could not be read; HobbyCon's homepage lists October 25 Oakville (past).
+
+- Toronto Pokémon Regional Championships 2027 (April 2–4, 2027): a Play! Pokémon tournament, not a vendor show; excluded unless a vendor hall is announced.
 
 - Northern Grails / Grails After Dark Friday night shows, Burrows Hall, Scarborough: TCDB lists October 23, 2026 (Instagram only).
 
@@ -117,7 +128,7 @@ These are accessible under **More local organizers** and are not calendar entrie
 
 - Georgetown Card Show (4 Mint Corners), Georgetown (Halton Hills): TCDB and tcgshowsnearme list October 24 and December 5, 2026; no organizer page.
 
-- PRO-TECT Hobby Expo, Upper Canada Mall, Newmarket: TCDB and cardshowdirectory list November 27–29, 2026; cardshowdirectory names hobbyexpo.ca as the show website, but it could not be opened on October 25, 2026 (OnTreasure only has the past July 10–12 expo).
+- PRO-TECT Hobby Expo, Upper Canada Mall, Newmarket: TCDB and cardshowdirectory list November 27–29, 2026; cardshowdirectory names hobbyexpo.ca as the show website, but it could not be opened on October 25, 2026 (OnTreasure only has the past July 10–12 expo). Enter The Battlefield's store page sells a Lorcana tournament "at Newmarket Hobby Expo" on Saturday November 28 at Upper Canada Mall (old Toys R Us space), "Pro-Tect's Hobby Expo", which supports the dates but is not the organizer's page.
 
 - CollectiCon Hamilton, Carmen's Event Centre: tcgshowsnearme and ontariotoyshows list December 26, 2026, 9:30 am–2 pm, $5 (one Facebook post). Pokesats also lists CollectiCon dates in Stoney Creek (October 25, December 13) and Hamilton (November 15).
 
