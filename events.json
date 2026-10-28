@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "catalogue_title": "GTA & Hamilton card shows",
-  "checked_at": "2026-10-27",
+  "checked_at": "2026-10-28",
   "events": [
     {
       "id": "hobby-con-ajax-2026-10-24",
@@ -223,9 +223,9 @@
       "organizer": "HobbyCon",
       "city": "Markham",
       "province": "Ontario",
-      "venue": "Venue to be announced",
-      "address": "",
-      "venue_pending": true,
+      "venue": "New Jaasmin Banquet Hall and Convention Centre",
+      "address": "90 Nolan Court, Markham, ON L3R 4L9",
+      "venue_pending": false,
       "start_date": "2026-10-29",
       "end_date": "2026-10-29",
       "start_time": "16:00",
@@ -240,11 +240,11 @@
       "table_status": "Unknown",
       "application_deadline": "",
       "vendor_url": "https://hobbyconevents.com/vendor-application",
-      "source_url": "https://hobbyconevents.com/events-schedule",
+      "source_url": "https://www.eventbrite.ca/e/hobby-con-markham-october-29-night-market-tickets-2003965269065",
       "schedule_poster_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1024,fit=crop/mjE7OXWJovtG6qa9/6ee637da-4570-4864-b6dc-94b9b28c2bc7-y45JZnqgDVX5sFLr.jpeg",
-      "verified_at": "2026-10-20",
+      "verified_at": "2026-10-28",
       "event_status": "Scheduled",
-      "description": "An evening of trading cards and collectibles in Markham. The organizer has announced the date and 4–9 pm hours; the venue and street address are still to be announced. Use the vendor application to request this date. Table prices, availability and booking opening date are not published.",
+      "description": "An evening Pokemon and TCG night market in Markham. HobbyCon's Eventbrite listing (checked October 28, 2026) confirms Thursday October 29, 4-9 pm, at New Jaasmin Banquet Hall, 90 Nolan Court, with free entry and free parking. Use the vendor application to request a table. Table prices, availability and booking opening date are not published.",
       "daily_hours": [],
       "parking": "Free parking",
       "setup_time": "",
@@ -255,7 +255,8 @@
       "popularity": "Unknown",
       "popularity_note": "",
       "popularity_source_url": "",
-      "demand_history": []
+      "demand_history": [],
+      "last_checked": "2026-10-28"
     },
     {
       "id": "gta-card-show-ajax-2026-10-31",
@@ -317,7 +318,7 @@
       "start_date": "2026-10-31",
       "end_date": "2026-10-31",
       "start_time": "10:00",
-      "end_time": "18:00",
+      "end_time": "17:00",
       "timezone": "America/Toronto",
       "categories": [
         "Pokemon",
@@ -330,9 +331,9 @@
       "vendor_url": "https://hobbyconevents.com/vendor-application",
       "source_url": "https://hobbyconevents.com/events-schedule",
       "schedule_poster_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1024,fit=crop/mjE7OXWJovtG6qa9/copy-of-copy-of-talking-vendor-application-6-iT1njszpujhOtj6T.jpg",
-      "verified_at": "2026-10-20",
+      "verified_at": "2026-10-28",
       "event_status": "Scheduled",
-      "description": "A free-entry Pokemon and collectibles show on HobbyCon's official 2026 schedule. Use the vendor application to request this date. Table prices, availability and booking opening date are not published.",
+      "description": "A free-entry Pokemon and TCG show on HobbyCon's official 2026 schedule. HobbyCon's Eventbrite listing (https://www.eventbrite.ca/e/mississauga-pokemon-tcg-card-show-free-entry-october-31-hobby-con-tickets-2003965675280, checked October 28, 2026) gives 10 am-5 pm at Eros Convention Center; an earlier listing in this catalogue said 6 pm. The Eventbrite description text also mentions 'September 5th', apparently left over from an earlier show. Use the vendor application to request this date. Table prices, availability and booking opening date are not published.",
       "daily_hours": [],
       "parking": "",
       "setup_time": "",
@@ -343,7 +344,8 @@
       "popularity": "Unknown",
       "popularity_note": "",
       "popularity_source_url": "",
-      "demand_history": []
+      "demand_history": [],
+      "last_checked": "2026-10-28"
     },
     {
       "id": "midtown-north-york-2026-10-31",
@@ -379,6 +381,40 @@
       "is_demo": false,
       "archived": false,
       "last_checked": "2026-10-24"
+    },
+    {
+      "id": "nostalgia-fest-mississauga-2026-10-31",
+      "title": "Nostalgia Fest · Halloween at Square One",
+      "organizer": "Nostalgia Fest Team",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "venue": "Square One",
+      "address": "199 Rathburn Road West, Mississauga, ON L5B 4C1",
+      "venue_pending": false,
+      "start_date": "2026-10-31",
+      "end_date": "2026-11-01",
+      "start_time": "11:00",
+      "end_time": "18:00",
+      "timezone": "America/Toronto",
+      "categories": [
+        "Pokemon",
+        "Mixed"
+      ],
+      "admission_cents": 0,
+      "table_fee_cents": -1,
+      "table_status": "Unknown",
+      "application_deadline": "",
+      "vendor_url": "",
+      "source_url": "https://www.eventbrite.com/e/nostalgia-fest-halloween-show-at-square-one-free-3day-tcg-collectibles-tickets-2003686564452",
+      "verified_at": "2026-10-28",
+      "last_checked": "2026-10-28",
+      "event_status": "Scheduled",
+      "description": "A free, family-friendly Halloween TCG and collectibles show with cosplay and a Pokemon TCG tournament at Square One. The organizer's Eventbrite listing gives Saturday October 31 to Sunday November 1, 11 am-6 pm. Its title says '3Day', but only two days are listed. Where in Square One the show is held, the vendor mix (sports cards are not mentioned) and table prices are not published.",
+      "daily_hours": [],
+      "parking": "Free parking",
+      "setup_time": "",
+      "is_demo": false,
+      "archived": false
     },
     {
       "id": "nace-vaughan-2026-11-01",
@@ -2094,5 +2130,5 @@
       "archived": false
     }
   ],
-  "catalogue_revision": "2026-10-27-2"
+  "catalogue_revision": "2026-10-28-1"
 }
