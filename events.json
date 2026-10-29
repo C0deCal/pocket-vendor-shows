@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "catalogue_title": "GTA & Hamilton card shows",
-  "checked_at": "2026-10-28",
+  "checked_at": "2026-10-29",
   "events": [
     {
       "id": "hobby-con-ajax-2026-10-24",
@@ -284,9 +284,9 @@
       "application_deadline": "",
       "vendor_url": "https://www.ontreasure.com/events/gta-card-show-oct-31-nov-1-halloween-edition-10312026",
       "source_url": "https://www.ontreasure.com/events/gta-card-show-oct-31-nov-1-halloween-edition-10312026",
-      "verified_at": "2026-10-24",
+      "verified_at": "2026-10-29",
       "event_status": "Scheduled",
-      "description": "The OnTreasure ticketing page confirms a two-day Halloween card show at the Ajax Convention Centre on October 31-November 1, 2026, with $5 admission. Hours of 10 am-4 pm each day and the street address come from TCDB and tcgshowsnearme; one tcgshowsnearme entry for Nov 1 shows $10 admission, so confirm the door price.",
+      "description": "Two-day Halloween card show at the Ajax Convention Centre on October 31-November 1, 2026. The organizer's OnTreasure page and its Eventbrite listing (https://www.eventbrite.ca/e/gta-card-show-halloween-edition-tickets-2003320087309, checked October 29, 2026) agree on 10 am-4 pm daily, 550 Beck Crescent, and $5 admission with kids free. Costume contest at 1 pm each day, treasure hunt and giveaways. Pokemon, sports cards, One Piece and other TCGs.",
       "daily_hours": [
         {
           "date": "2026-10-31",
@@ -303,7 +303,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-24",
+      "last_checked": "2026-10-29",
       "venue_pending": false
     },
     {
@@ -483,6 +483,46 @@
       "is_demo": false,
       "archived": false,
       "last_checked": "2026-10-28"
+    },
+    {
+      "id": "hobby-con-hamilton-2026-11-01",
+      "title": "HobbyCon · Hamilton",
+      "organizer": "HobbyCon",
+      "city": "Hamilton",
+      "province": "Ontario",
+      "venue": "Michelangelo Banquet Centre",
+      "address": "1555 Upper Ottawa Street, Hamilton, ON L8W 3E2",
+      "venue_pending": false,
+      "start_date": "2026-11-01",
+      "end_date": "2026-11-01",
+      "start_time": "10:00",
+      "end_time": "16:00",
+      "timezone": "America/Toronto",
+      "categories": [
+        "Pokemon",
+        "Mixed"
+      ],
+      "admission_cents": 0,
+      "table_fee_cents": -1,
+      "table_status": "Unknown",
+      "application_deadline": "",
+      "vendor_url": "https://hobbyconevents.com/vendor-application",
+      "source_url": "https://www.eventbrite.ca/e/hobby-con-hamilton-november-1-tickets-2003966127633",
+      "verified_at": "2026-10-29",
+      "last_checked": "2026-10-29",
+      "event_status": "Scheduled",
+      "description": "A free-entry Pokemon and TCG card show. HobbyCon's own Eventbrite listing ('HOBBY CON HAMILTON NOVEMBER 1', organizer Hobby Con, opened October 29, 2026) gives Sunday November 1, 2026, 10 am-4 pm, at Michelangelo Banquet Centre, free entry and free parking. The date is not on hobbyconevents.com's pages. Table prices and availability are not published.",
+      "daily_hours": [],
+      "parking": "Free parking.",
+      "setup_time": "",
+      "is_demo": false,
+      "archived": false,
+      "table_booking_open_date": "",
+      "table_booking_source_url": "",
+      "popularity": "Unknown",
+      "popularity_note": "",
+      "popularity_source_url": "",
+      "demand_history": []
     },
     {
       "id": "hobby-con-night-market-markham-2026-11-05",
@@ -815,11 +855,11 @@
       "city": "Mississauga",
       "province": "Ontario",
       "venue": "Grand Victorian Convention Centre",
-      "address": "Mississauga, ON",
+      "address": "175 Derry Road East, Mississauga, ON L5T 2Z7",
       "start_date": "2026-11-14",
       "end_date": "2026-11-15",
-      "start_time": "",
-      "end_time": "",
+      "start_time": "11:00",
+      "end_time": "18:00",
       "timezone": "America/Toronto",
       "categories": [
         "Pokemon",
@@ -831,12 +871,23 @@
       "application_deadline": "",
       "vendor_url": "",
       "source_url": "https://www.ontreasure.com/events/nace-free-pokemon-and-sports-card-event-11142026",
-      "verified_at": "2026-10-28",
-      "last_checked": "2026-10-28",
+      "verified_at": "2026-10-29",
+      "last_checked": "2026-10-29",
       "event_status": "Scheduled",
-      "description": "Free Pokemon and sports-card show by NACE (North American Card Exchange) at the Grand Victorian Convention Centre, Saturday-Sunday November 14-15. The OnTreasure listing gives no daily hours, street address or table prices; check the organizer before travelling.",
-      "daily_hours": [],
-      "parking": "",
+      "description": "Free Pokemon and sports-card show by NACE (North American Card Exchange) at the Grand Victorian Convention Centre, Saturday-Sunday November 14-15. NACE's Eventbrite listing (https://www.eventbrite.ca/e/free-pokemon-and-sports-card-event-presented-by-nace-tickets-2004035147072, checked October 29, 2026) gives 11 am-6 pm both days with doors at 10:30 am, 175 Derry Road East, free admission and free parking. Singles, graded slabs and sealed product; vendors buying and trading. Table prices are not published; vendor tables are arranged through the organizer's social bio link.",
+      "daily_hours": [
+        {
+          "date": "2026-11-14",
+          "start": "11:00",
+          "end": "18:00"
+        },
+        {
+          "date": "2026-11-15",
+          "start": "11:00",
+          "end": "18:00"
+        }
+      ],
+      "parking": "Free parking.",
       "setup_time": "",
       "is_demo": false,
       "archived": false
@@ -2039,6 +2090,40 @@
       "archived": false
     },
     {
+      "id": "pop-culture-canada-whitby-comicon-2027-02-28",
+      "title": "Whitby ComiCon",
+      "organizer": "Pop Culture Canada",
+      "city": "Whitby",
+      "province": "Ontario",
+      "venue": "Heydenshore Pavilion",
+      "address": "589 Water Street, Whitby, ON L1N 9V9",
+      "start_date": "2027-02-28",
+      "end_date": "2027-02-28",
+      "start_time": "10:00",
+      "end_time": "15:00",
+      "timezone": "America/Toronto",
+      "categories": [
+        "Sports",
+        "Mixed"
+      ],
+      "admission_cents": 500,
+      "table_fee_cents": -1,
+      "table_status": "Unknown",
+      "application_deadline": "",
+      "vendor_url": "https://www.eventbrite.ca/e/whitby-comicon-february-28th-2027-comic-con-tickets-1980581751334",
+      "source_url": "https://www.eventbrite.ca/e/whitby-comicon-february-28th-2027-comic-con-tickets-1980581751334",
+      "verified_at": "2026-10-29",
+      "event_status": "Scheduled",
+      "description": "Mixed comic con; organizer's Eventbrite lists vendors selling comic books, toys, video games and sports cards (not every item guaranteed). Admission C$5 online, C$10 at the door, kids 12 and under free with paid admission, C$30 VIP; vendor table fees not published. The page body says 'February 28th 2026' but its title and date header say Sunday February 28, 2027.",
+      "daily_hours": [],
+      "parking": "",
+      "setup_time": "",
+      "is_demo": false,
+      "archived": false,
+      "last_checked": "2026-10-29",
+      "venue_pending": false
+    },
+    {
       "id": "card-yard-vaughan-2027-03-06",
       "title": "Card Yard · Vaughan Mills",
       "organizer": "Card Yard",
@@ -2129,6 +2214,40 @@
       "archived": false
     },
     {
+      "id": "pop-culture-canada-bolton-comicon-2027-03-13",
+      "title": "Bolton ComiCon",
+      "organizer": "Pop Culture Canada",
+      "city": "Caledon",
+      "province": "Ontario",
+      "venue": "Caledon Centre for Recreation and Wellness",
+      "address": "14111 Highway 50, Bolton, ON L7E 2V2",
+      "start_date": "2027-03-13",
+      "end_date": "2027-03-13",
+      "start_time": "10:00",
+      "end_time": "15:00",
+      "timezone": "America/Toronto",
+      "categories": [
+        "Sports",
+        "Mixed"
+      ],
+      "admission_cents": 500,
+      "table_fee_cents": -1,
+      "table_status": "Unknown",
+      "application_deadline": "",
+      "vendor_url": "https://www.eventbrite.ca/e/bolton-comicon-march-13th-2027-comic-con-tickets-2003834044569",
+      "source_url": "https://www.eventbrite.ca/e/bolton-comicon-march-13th-2027-comic-con-tickets-2003834044569",
+      "verified_at": "2026-10-29",
+      "event_status": "Scheduled",
+      "description": "Mixed comic con in Bolton; organizer's Eventbrite lists vendors selling comic books, toys, video games and sports cards (not every item guaranteed). Admission C$5 online, C$10 at the door, kids 12 and under free with paid admission, C$30 VIP; vendor table fees not published.",
+      "daily_hours": [],
+      "parking": "",
+      "setup_time": "",
+      "is_demo": false,
+      "archived": false,
+      "last_checked": "2026-10-29",
+      "venue_pending": false
+    },
+    {
       "id": "mississauga-card-show-2027-03-14",
       "title": "Mississauga Card Show",
       "organizer": "Mississauga Sports Card",
@@ -2163,5 +2282,5 @@
       "archived": false
     }
   ],
-  "catalogue_revision": "2026-10-28-2"
+  "catalogue_revision": "2026-10-29-1"
 }
