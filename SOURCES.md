@@ -1,6 +1,6 @@
 # Event sources
 
-Catalogue checked **October 30, 2026**. **61 upcoming entries** across the Greater Toronto and Hamilton Area, including HobbyCon dates read from official posters and entries reviewed through OnTreasure, Eventbrite and organizer websites. Two Markham night markets (November 5, December 17) have announced dates and city but no venue yet; the October 29 one is confirmed at New Jaasmin. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
+Catalogue checked **October 30, 2026**. **64 upcoming entries** across the Greater Toronto and Hamilton Area, including HobbyCon dates read from official posters and entries reviewed through OnTreasure, Eventbrite and organizer websites. Two Markham night markets (November 5, December 17) have announced dates and city but no venue yet; the October 29 one is confirmed at New Jaasmin. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
 
 ## Area
 
@@ -62,16 +62,19 @@ Brampton is inside the area again since October 24, 2026, so the older Brampton 
 | Greater Toronto · Holiday Expo | North York | 2026-12-27 – 2026-12-28 | [Organizer listing](https://www.eventbrite.ca/e/greater-toronto-sports-card-show-2-day-holiday-expo-tickets-2000201699126) |
 | HobbyCon · Markham | Markham | 2026-12-27 | [Organizer listing](https://hobbyconevents.com/events-schedule) |
 | Oshawa ComiCon | Oshawa | 2026-12-27 | [Organizer listing](https://www.eventbrite.ca/e/oshawa-comicon-december-27th-2026-comicon-tickets-1980585666043) |
+| Aurora ComiCon | Aurora | 2027-01-03 | [Organizer listing](https://www.eventbrite.ca/e/aurora-comicon-january-3rd-2027-comic-con-tickets-2003512240043) |
 | Card Yard · Vaughan Mills | Vaughan | 2027-01-09 – 2027-01-10 | [Organizer listing](https://www.ontreasure.com/events/card-yard-in-vaughan-mills-01092027) |
 | Card Yard · Erin Mills Town Centre | Mississauga | 2027-01-16 – 2027-01-17 | [Organizer listing](https://www.ontreasure.com/events/card-yard-erin-mills-mall-01162027) |
 | True North · Winter Expo | Markham | 2027-01-16 | [Organizer listing](https://truenorthcardexpo.ca/) |
 | Card Yard · Vaughan Mills | Vaughan | 2027-02-06 – 2027-02-07 | [Organizer listing](https://www.ontreasure.com/events/card-yard-in-vaughan-mills-02062027) |
+| Bowmanville ComiCon | Clarington | 2027-02-21 | [Organizer listing](https://www.eventbrite.ca/e/bowmanville-comicon-february-21st-2027-comic-con-tickets-2003835145863) |
 | CSC · The Collectors Supershow | Mississauga | 2027-02-12 – 2027-02-14 | [Organizer listing](https://csceventhq.com/) |
 | Whitby ComiCon | Whitby | 2027-02-28 | [Organizer listing](https://www.eventbrite.ca/e/whitby-comicon-february-28th-2027-comic-con-tickets-1980581751334) |
 | Card Yard · Erin Mills Town Centre | Mississauga | 2027-02-27 – 2027-02-28 | [Organizer listing](https://www.ontreasure.com/events/card-yard-erin-mills-mall-02272027) |
 | Card Yard · Vaughan Mills | Vaughan | 2027-03-06 – 2027-03-07 | [Organizer listing](https://www.ontreasure.com/events/card-yard-in-vaughan-mills-03062027) |
 | Card Yard · Erin Mills Town Centre | Mississauga | 2027-03-13 – 2027-03-14 | [Organizer listing](https://www.ontreasure.com/events/card-yard-erin-mills-mall-03132027) |
 | Bolton ComiCon | Caledon | 2027-03-13 | [Organizer listing](https://www.eventbrite.ca/e/bolton-comicon-march-13th-2027-comic-con-tickets-2003834044569) |
+| Ajax ComiCon · March | Ajax | 2027-03-14 | [Organizer listing](https://www.eventbrite.ca/e/ajax-comicon-march-14th-2027-comic-con-tickets-2003735364414) |
 | Mississauga Card Show | Mississauga | 2027-03-14 | [Organizer listing](https://www.ontreasure.com/events/mississauga-card-show-03142027) |
 
 ## Review method and qualifications
@@ -104,6 +107,7 @@ Review the organizer's website, Eventbrite listing and OnTreasure event/table pa
 - **GTA Card Show · Halloween (Ajax):** the organizer's Eventbrite listing (event 2003320087309, checked October 29, 2026) confirms 10 am–4 pm daily and $5 admission (kids free), resolving the earlier $10 directory conflict. sportscardsnearme's "Durham Card Show" at the Ajax Convention Centre on October 31 / November 1 appears to be this same show.
 - **Whitby ComiCon (February 28, 2027) and Bolton ComiCon (March 13, 2027):** Pop Culture Canada's Eventbrite pages confirm date, venue, 10 am–3 pm and C$5 online / C$10 door admission; both list sports-card vendors. Whitby's description body still says "2026" while its title and date header say 2027. Added October 29, 2026.
 - **Newmarket ComiCon (November 14, 2026):** Pop Culture Canada's Eventbrite page (event 1989320872280, opened October 30, 2026) confirms Saturday November 14, 10 am–3 pm, Optimist Youth Centre, 55 Forhan Avenue, C$5 online and at the door (kids 12 and under free), and lists sports-card vendors. Added October 30, 2026.
+- **Aurora ComiCon (January 3, 2027), Bowmanville ComiCon (February 21, 2027, Clarington) and Ajax ComiCon (March 14, 2027):** Pop Culture Canada's Eventbrite pages (events 2003512240043, 2003835145863, 2003735364414), opened October 30, 2026 (run 2), confirm date, venue, street address, 10 am–3 pm and C$5 online / C$10 door admission (kids 12 and under free, C$30 VIP); all list sports-card vendors. The Aurora and Bowmanville description bodies still say "2026" while titles and date headers say 2027. Added October 30, 2026 (run 2).
 - Mixed collectible conventions are labeled as such. Weekly store tournaments and small trade nights are excluded.
 
 ## Organizer leads awaiting confirmation
@@ -143,7 +147,6 @@ These are accessible under **More local organizers** and are not calendar entrie
 
 - HobbyCon Scarborough TCG Expo, Scarborough Convention Centre: TCDB lists February 19–21, 2027.
 
-- Pop Culture Canada 2027 ComiCons: Eventbrite search results (checked October 30, 2026) now list Bowmanville ComiCon (Sunday February 21, 2027, 10 am, Garnet B. Rickard Recreation Complex, Clarington; event 2003835145863), Ajax ComiCon (Sunday March 14, 2027, 10 am, Audley Recreation Centre; event 2003735364414) and Aurora ComiCon (Sunday January 3, 2027, 10 am, Aurora Royal Canadian Legion Branch 385; event 2003512240043). Their detail pages could not be opened, so the sports-card vendor wording and prices are unconfirmed; add them once the pages are read. Whitby (February 28) is already in the calendar.
 
 - Trading Card Con Toronto: PokePrices lists November 20–22, 2026 in Toronto (last checked by them August 9, 2026), but Trading Card Con's own vendor page and Card Atlas list no Toronto stop (checked October 29, 2026). Treat as unconfirmed.
 
