@@ -1,6 +1,6 @@
 # Event sources
 
-Catalogue checked **October 29, 2026**. **60 upcoming entries** across the Greater Toronto and Hamilton Area, including HobbyCon dates read from official posters and entries reviewed through OnTreasure, Eventbrite and organizer websites. Two Markham night markets (November 5, December 17) have announced dates and city but no venue yet; the October 29 one is confirmed at New Jaasmin. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
+Catalogue checked **October 30, 2026**. **61 upcoming entries** across the Greater Toronto and Hamilton Area, including HobbyCon dates read from official posters and entries reviewed through OnTreasure, Eventbrite and organizer websites. Two Markham night markets (November 5, December 17) have announced dates and city but no venue yet; the October 29 one is confirmed at New Jaasmin. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
 
 ## Area
 
@@ -33,6 +33,7 @@ Brampton is inside the area again since October 24, 2026, so the older Brampton 
 | Collectors Clash · Woodbridge | Vaughan | 2026-11-08 | [Organizer listing](https://www.ontreasure.com/events/collectors-clash-woodbridge-card-show-11082026) |
 | HobbyCon · Scarborough | Scarborough | 2026-11-08 | [Organizer listing](https://hobbyconevents.com/events-schedule) |
 | Downtown Newmarket TCG & Toy Show | Newmarket | 2026-11-14 | [Organizer listing](https://www.ontreasure.com/events/downtown-newmarket-tcg-and-toy-show-11142026) |
+| Newmarket ComiCon | Newmarket | 2026-11-14 | [Organizer listing](https://www.eventbrite.ca/e/newmarket-comicon-november-14th-2026-comic-con-tickets-1989320872280) |
 | Shiny Cardboard Expo | North York | 2026-11-14 | [Organizer listing](https://www.eventbrite.ca/e/shiny-cardboard-expo-tickets-2002306346182) |
 | Ajax ComiCon | Ajax | 2026-11-15 | [Organizer listing](https://www.eventbrite.ca/e/ajax-comicon-november-15th-2026-comic-con-tickets-1980584259837) |
 | NACE · Grand Victorian Card Show | Mississauga | 2026-11-14 – 2026-11-15 | [Organizer listing](https://www.ontreasure.com/events/nace-free-pokemon-and-sports-card-event-11142026) |
@@ -102,6 +103,7 @@ Review the organizer's website, Eventbrite listing and OnTreasure event/table pa
 - **NACE · Grand Victorian (Mississauga):** NACE's Eventbrite listing (event 2004035147072, checked October 29, 2026) adds 11 am–6 pm both days (doors 10:30 am), 175 Derry Road East, free admission and free parking.
 - **GTA Card Show · Halloween (Ajax):** the organizer's Eventbrite listing (event 2003320087309, checked October 29, 2026) confirms 10 am–4 pm daily and $5 admission (kids free), resolving the earlier $10 directory conflict. sportscardsnearme's "Durham Card Show" at the Ajax Convention Centre on October 31 / November 1 appears to be this same show.
 - **Whitby ComiCon (February 28, 2027) and Bolton ComiCon (March 13, 2027):** Pop Culture Canada's Eventbrite pages confirm date, venue, 10 am–3 pm and C$5 online / C$10 door admission; both list sports-card vendors. Whitby's description body still says "2026" while its title and date header say 2027. Added October 29, 2026.
+- **Newmarket ComiCon (November 14, 2026):** Pop Culture Canada's Eventbrite page (event 1989320872280, opened October 30, 2026) confirms Saturday November 14, 10 am–3 pm, Optimist Youth Centre, 55 Forhan Avenue, C$5 online and at the door (kids 12 and under free), and lists sports-card vendors. Added October 30, 2026.
 - Mixed collectible conventions are labeled as such. Weekly store tournaments and small trade nights are excluded.
 
 ## Organizer leads awaiting confirmation
@@ -141,7 +143,7 @@ These are accessible under **More local organizers** and are not calendar entrie
 
 - HobbyCon Scarborough TCG Expo, Scarborough Convention Centre: TCDB lists February 19–21, 2027.
 
-- Bowmanville ComiCon (Pop Culture Canada): Roster Con lists February 21, 2027 at Garnet B. Rickard Recreation Complex; no Eventbrite page found yet (checked October 29, 2026). Whitby (February 28) is now confirmed and in the calendar.
+- Pop Culture Canada 2027 ComiCons: Eventbrite search results (checked October 30, 2026) now list Bowmanville ComiCon (Sunday February 21, 2027, 10 am, Garnet B. Rickard Recreation Complex, Clarington; event 2003835145863), Ajax ComiCon (Sunday March 14, 2027, 10 am, Audley Recreation Centre; event 2003735364414) and Aurora ComiCon (Sunday January 3, 2027, 10 am, Aurora Royal Canadian Legion Branch 385; event 2003512240043). Their detail pages could not be opened, so the sports-card vendor wording and prices are unconfirmed; add them once the pages are read. Whitby (February 28) is already in the calendar.
 
 - Trading Card Con Toronto: PokePrices lists November 20–22, 2026 in Toronto (last checked by them August 9, 2026), but Trading Card Con's own vendor page and Card Atlas list no Toronto stop (checked October 29, 2026). Treat as unconfirmed.
 

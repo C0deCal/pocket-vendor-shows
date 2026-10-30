@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "catalogue_title": "GTA & Hamilton card shows",
-  "checked_at": "2026-10-29",
+  "checked_at": "2026-10-30",
   "events": [
     {
       "id": "hobby-con-ajax-2026-10-24",
@@ -2280,7 +2280,41 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false
+    },
+    {
+      "id": "pop-culture-canada-newmarket-comicon-2026-11-14",
+      "title": "Newmarket ComiCon",
+      "organizer": "Pop Culture Canada",
+      "city": "Newmarket",
+      "province": "Ontario",
+      "venue": "Optimist Youth Centre",
+      "address": "55 Forhan Avenue, Newmarket, ON L3Y 8X6",
+      "start_date": "2026-11-14",
+      "end_date": "2026-11-14",
+      "start_time": "10:00",
+      "end_time": "15:00",
+      "timezone": "America/Toronto",
+      "categories": [
+        "Sports",
+        "Mixed"
+      ],
+      "admission_cents": 500,
+      "table_fee_cents": -1,
+      "table_status": "Unknown",
+      "application_deadline": "",
+      "vendor_url": "https://www.eventbrite.ca/e/newmarket-comicon-november-14th-2026-comic-con-tickets-1989320872280",
+      "source_url": "https://www.eventbrite.ca/e/newmarket-comicon-november-14th-2026-comic-con-tickets-1989320872280",
+      "verified_at": "2026-10-30",
+      "event_status": "Scheduled",
+      "description": "Mixed comic con; organizer's Eventbrite confirms Saturday Nov 14, 2026, 10 am-3 pm, with vendors selling comic books, toys, video games and sports cards. Admission C$5 online or at the door, kids 12 and under free with a paying adult; VIP C$30. Vendor table fees not published. Same day as the Downtown Newmarket TCG & Toy Show.",
+      "daily_hours": [],
+      "parking": "",
+      "setup_time": "",
+      "is_demo": false,
+      "archived": false,
+      "last_checked": "2026-10-30",
+      "venue_pending": false
     }
   ],
-  "catalogue_revision": "2026-10-29-1"
+  "catalogue_revision": "2026-10-30-1"
 }
