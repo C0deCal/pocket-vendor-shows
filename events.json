@@ -447,7 +447,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-24"
+      "last_checked": "2026-10-31"
     },
     {
       "id": "northside-mississauga-2026-11-01",
@@ -617,7 +617,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-24"
+      "last_checked": "2026-10-31"
     },
     {
       "id": "card-yard-hamilton-2026-11-07",
@@ -1064,7 +1064,7 @@
       "vendor_url": "https://www.ontreasure.com/events/ohl-card-show-11152026",
       "source_url": "https://www.ontreasure.com/events/ohl-card-show-11152026",
       "verified_at": "2026-10-27",
-      "last_checked": "2026-10-28",
+      "last_checked": "2026-10-31",
       "event_status": "Scheduled",
       "description": "Card Yard's OnTreasure listing confirms the OHL Card Show in Brampton on Sunday, November 15, 2026. The CAA Centre venue (home of the OHL Brampton Steelheads; the show runs alongside a game that day) comes from cardshowdirectory and PokéSats, which agree; the booking page itself could not be opened. Hours, admission and table prices are not confirmed.",
       "daily_hours": [],
@@ -2418,5 +2418,5 @@
       "venue_pending": false
     }
   ],
-  "catalogue_revision": "2026-10-31-1"
+  "catalogue_revision": "2026-10-31-2"
 }
