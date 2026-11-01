@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "catalogue_title": "GTA & Hamilton card shows",
-  "checked_at": "2026-10-31",
+  "checked_at": "2026-11-01",
   "events": [
     {
       "id": "hobby-con-ajax-2026-10-24",
@@ -846,7 +846,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-24"
+      "last_checked": "2026-11-01"
     },
     {
       "id": "nace-mississauga-2026-11-14",
@@ -872,7 +872,7 @@
       "vendor_url": "",
       "source_url": "https://www.ontreasure.com/events/nace-free-pokemon-and-sports-card-event-11142026",
       "verified_at": "2026-10-29",
-      "last_checked": "2026-10-29",
+      "last_checked": "2026-11-01",
       "event_status": "Scheduled",
       "description": "Free Pokemon and sports-card show by NACE (North American Card Exchange) at the Grand Victorian Convention Centre, Saturday-Sunday November 14-15. NACE's Eventbrite listing (https://www.eventbrite.ca/e/free-pokemon-and-sports-card-event-presented-by-nace-tickets-2004035147072, checked October 29, 2026) gives 11 am-6 pm both days with doors at 10:30 am, 175 Derry Road East, free admission and free parking. Singles, graded slabs and sealed product; vendors buying and trading. Table prices are not published; vendor tables are arranged through the organizer's social bio link.",
       "daily_hours": [
@@ -1037,7 +1037,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-24",
+      "last_checked": "2026-11-01",
       "venue_pending": false
     },
     {
@@ -1129,7 +1129,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-24",
+      "last_checked": "2026-11-01",
       "venue_pending": false
     },
     {
@@ -1164,7 +1164,8 @@
       "parking": "Free parking",
       "setup_time": "",
       "is_demo": false,
-      "archived": false
+      "archived": false,
+      "last_checked": "2026-11-01"
     },
     {
       "id": "ancaster-toy-collectibles-expo-2026-11-22",
@@ -1266,7 +1267,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-23"
+      "last_checked": "2026-11-01"
     },
     {
       "id": "vaughan-con-2026-11-28",
@@ -1297,7 +1298,8 @@
       "parking": "Free parking",
       "setup_time": "",
       "is_demo": false,
-      "archived": false
+      "archived": false,
+      "last_checked": "2026-11-01"
     },
     {
       "id": "hobbyverse-markham-2026-11-29",
@@ -1332,7 +1334,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-23"
+      "last_checked": "2026-11-01"
     },
     {
       "id": "northside-mississauga-2026-11-29",
@@ -1433,7 +1435,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-23"
+      "last_checked": "2026-11-01"
     },
     {
       "id": "csc-anniversary-mississauga-2026-12-04",
@@ -1681,7 +1683,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-23"
+      "last_checked": "2026-11-01"
     },
     {
       "id": "hobby-con-scarborough-2026-12-20",
@@ -1837,7 +1839,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-24",
+      "last_checked": "2026-11-01",
       "venue_pending": false
     },
     {
@@ -2120,7 +2122,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-29",
+      "last_checked": "2026-11-01",
       "venue_pending": false
     },
     {
@@ -2244,7 +2246,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-29",
+      "last_checked": "2026-11-01",
       "venue_pending": false
     },
     {
@@ -2312,7 +2314,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-30",
+      "last_checked": "2026-11-01",
       "venue_pending": false
     },
     {
@@ -2346,7 +2348,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-30",
+      "last_checked": "2026-11-01",
       "venue_pending": false
     },
     {
@@ -2380,7 +2382,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-30",
+      "last_checked": "2026-11-01",
       "venue_pending": false
     },
     {
@@ -2414,9 +2416,9 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-30",
+      "last_checked": "2026-11-01",
       "venue_pending": false
     }
   ],
-  "catalogue_revision": "2026-10-31-2"
+  "catalogue_revision": "2026-11-01-1"
 }
