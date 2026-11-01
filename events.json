@@ -617,7 +617,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-31"
+      "last_checked": "2026-11-01"
     },
     {
       "id": "card-yard-hamilton-2026-11-07",
@@ -811,7 +811,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-24",
+      "last_checked": "2026-11-01",
       "venue_pending": false
     },
     {
@@ -2418,7 +2418,40 @@
       "archived": false,
       "last_checked": "2026-11-01",
       "venue_pending": false
+    },
+    {
+      "id": "pro-tect-hobby-expo-newmarket-2026-11-27",
+      "title": "PRO-TECT Hobby Expo · Black Friday",
+      "organizer": "PRO-TECT",
+      "city": "Newmarket",
+      "province": "Ontario",
+      "venue": "Upper Canada Mall",
+      "address": "17600 Yonge Street, Newmarket, ON L3Y 4Z1",
+      "start_date": "2026-11-27",
+      "end_date": "2026-11-29",
+      "start_time": "",
+      "end_time": "",
+      "timezone": "America/Toronto",
+      "categories": [
+        "Mixed"
+      ],
+      "admission_cents": -1,
+      "table_fee_cents": -1,
+      "table_status": "Unknown",
+      "application_deadline": "",
+      "vendor_url": "https://www.ontreasure.com/events/protect-hobby-expo-the-upper-canada-mall-11272026",
+      "source_url": "https://www.ontreasure.com/events/protect-hobby-expo-the-upper-canada-mall-11272026",
+      "verified_at": "2026-11-01",
+      "event_status": "Scheduled",
+      "description": "Hobby and card expo filling 48,000 sq ft at Upper Canada Mall over Black Friday weekend. The OnTreasure listing confirms November 27-29, 2026 at Upper Canada Mall, Newmarket; the street address is from cardshowdirectory (which names hobbyexpo.ca as the show site). Daily hours, admission, table prices and the card mix are not published on the listing, so check with the organizer.",
+      "daily_hours": [],
+      "parking": "",
+      "setup_time": "",
+      "is_demo": false,
+      "archived": false,
+      "last_checked": "2026-11-01",
+      "venue_pending": false
     }
   ],
-  "catalogue_revision": "2026-11-01-1"
+  "catalogue_revision": "2026-11-01-2"
 }

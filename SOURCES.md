@@ -1,6 +1,6 @@
 # Event sources
 
-Catalogue checked **November 1, 2026**. **64 upcoming entries** across the Greater Toronto and Hamilton Area, including HobbyCon dates read from official posters and entries reviewed through OnTreasure, Eventbrite and organizer websites. Two Markham night markets (November 5, December 17) have announced dates and city but no venue yet; the October 29 one is confirmed at New Jaasmin. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
+Catalogue checked **November 1, 2026**. **65 upcoming entries** across the Greater Toronto and Hamilton Area, including HobbyCon dates read from official posters and entries reviewed through OnTreasure, Eventbrite and organizer websites. Two Markham night markets (November 5, December 17) have announced dates and city but no venue yet; the October 29 one is confirmed at New Jaasmin. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
 
 ## Area
 
@@ -44,6 +44,7 @@ Brampton is inside the area again since October 24, 2026, so the older Brampton 
 | CardFesta · Winter Expo | Brampton | 2026-11-20 – 2026-11-22 | [Organizer listing](https://www.cardfesta.com/upcoming-events/winter-expo) |
 | Mississauga Cards & Collectibles · Fall | Mississauga | 2026-11-21 | [Organizer listing](https://www.ontreasure.com/events/free-mississauga-cards-collectibles-show-fall-edition-by-united-hobby-collective-11212026) |
 | Ancaster Toy & Collectibles Expo | Hamilton | 2026-11-22 | [Organizer listing](https://collectorshows.ca/sunday-november-22nd-the-ancaster-toy-and-collectibles-expo/) |
+| PRO-TECT Hobby Expo · Black Friday | Newmarket | 2026-11-27 – 2026-11-29 | [Organizer listing](https://www.ontreasure.com/events/protect-hobby-expo-the-upper-canada-mall-11272026) |
 | CanGeek Collectors Market | Scarborough | 2026-11-28 | [Organizer listing](https://www.kijiji.ca/v-events/city-of-toronto/the-cangeek-collectors-market/1743636574) |
 | HobbyVerse · Holiday Saturday | Markham | 2026-11-28 | [Organizer listing](https://www.eventbrite.com/e/hobbyverse-expo-holiday-edition-tickets-2003620817802) |
 | Vaughan Con · Holiday Edition | Vaughan | 2026-11-28 | [Organizer listing](https://www.eventbrite.ca/e/vaughan-con-holiday-edition-2026-tickets-2001401608086) |
@@ -108,6 +109,7 @@ Review the organizer's website, Eventbrite listing and OnTreasure event/table pa
 - **Whitby ComiCon (February 28, 2027) and Bolton ComiCon (March 13, 2027):** Pop Culture Canada's Eventbrite pages confirm date, venue, 10 am–3 pm and C$5 online / C$10 door admission; both list sports-card vendors. Whitby's description body still says "2026" while its title and date header say 2027. Added October 29, 2026.
 - **Newmarket ComiCon (November 14, 2026):** Pop Culture Canada's Eventbrite page (event 1989320872280, opened October 30, 2026) confirms Saturday November 14, 10 am–3 pm, Optimist Youth Centre, 55 Forhan Avenue, C$5 online and at the door (kids 12 and under free), and lists sports-card vendors. Added October 30, 2026.
 - **Aurora ComiCon (January 3, 2027), Bowmanville ComiCon (February 21, 2027, Clarington) and Ajax ComiCon (March 14, 2027):** Pop Culture Canada's Eventbrite pages (events 2003512240043, 2003835145863, 2003735364414), opened October 30, 2026 (run 2), confirm date, venue, street address, 10 am–3 pm and C$5 online / C$10 door admission (kids 12 and under free, C$30 VIP); all list sports-card vendors. The Aurora and Bowmanville description bodies still say "2026" while titles and date headers say 2027. Added October 30, 2026 (run 2).
+- **PRO-TECT Hobby Expo · Black Friday (Newmarket):** OnTreasure now lists "PRO-TECT Hobby Expo - Black Friday at The Upper Canada Mall" for November 27–29, 2026 (event page protect-hobby-expo-the-upper-canada-mall-11272026, opened November 1, 2026, run 2), describing 48,000 sq ft. The 17600 Yonge Street address is from cardshowdirectory, which names hobbyexpo.ca as the show site (not reachable this run). PokéSats gives a Friday 4 pm start, not confirmed by the organizer, so hours, admission, table prices and card mix stay blank/unknown; Enter The Battlefield sells a Lorcana tournament at the expo on November 28. Added November 1, 2026 (run 2).
 - Mixed collectible conventions are labeled as such. Weekly store tournaments and small trade nights are excluded.
 
 ## Organizer leads awaiting confirmation
@@ -138,8 +140,6 @@ These are accessible under **More local organizers** and are not calendar entrie
 - Durham Card Show, Ajax Convention Centre: TCDB lists December 13, 2026, 10 am–4 pm; the organizer's Facebook/Instagram could not be read.
 
 - Georgetown Card Show (4 Mint Corners), Georgetown (Halton Hills): TCDB and tcgshowsnearme list October 24 and December 5, 2026; no organizer page.
-
-- PRO-TECT Hobby Expo, Upper Canada Mall, Newmarket: TCDB and cardshowdirectory list November 27–29, 2026; cardshowdirectory names hobbyexpo.ca as the show website, but it could not be opened on October 25, 2026 (OnTreasure only has the past July 10–12 expo). Enter The Battlefield's store page sells a Lorcana tournament "at Newmarket Hobby Expo" on Saturday November 28 at Upper Canada Mall (old Toys R Us space), "Pro-Tect's Hobby Expo", which supports the dates but is not the organizer's page.
 
 - CollectiCon Hamilton, Carmen's Event Centre: tcgshowsnearme and ontariotoyshows list December 26, 2026, 9:30 am–2 pm, $5 (one Facebook post). Pokesats also lists CollectiCon dates in Stoney Creek (October 25, December 13) and Hamilton (November 15).
 
