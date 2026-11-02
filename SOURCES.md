@@ -1,6 +1,6 @@
 # Event sources
 
-Catalogue checked **November 1, 2026**. **65 upcoming entries** across the Greater Toronto and Hamilton Area, including HobbyCon dates read from official posters and entries reviewed through OnTreasure, Eventbrite and organizer websites. Two Markham night markets (November 5, December 17) have announced dates and city but no venue yet; the October 29 one is confirmed at New Jaasmin. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
+Catalogue checked **November 2, 2026**. **66 upcoming entries** across the Greater Toronto and Hamilton Area, including HobbyCon dates read from official posters and entries reviewed through OnTreasure, Eventbrite and organizer websites. The December 17 Markham night market has an announced date and city but no venue yet; the October 29 and November 5 ones are confirmed at New Jaasmin. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
 
 ## Area
 
@@ -26,7 +26,8 @@ Brampton is inside the area again since October 24, 2026, so the older Brampton 
 | HobbyCon · Hamilton | Hamilton | 2026-11-01 | [Organizer listing](https://www.eventbrite.ca/e/hobby-con-hamilton-november-1-tickets-2003966127633) |
 | NACE · Vaughan | Vaughan | 2026-11-01 | [Organizer listing](https://www.eventbrite.ca/e/free-pokemon-and-sports-card-event-presented-by-nace-tickets-2002684427032) |
 | Northside TCG · Mississauga | Mississauga | 2026-11-01 | [Organizer listing](https://www.northsidetcg.com/shows/2026-11-01) |
-| HobbyCon · Night Market · venue TBA | Markham | 2026-11-05 | [Organizer listing](https://hobbyconevents.com/events-schedule) |
+| HobbyCon · Night Market · Vaughan | Vaughan | 2026-11-03 | [Organizer listing](https://www.eventbrite.ca/e/hobby-con-vaughan-november-3-night-market-pokemontcg-trade-show-tickets-2004187493745) |
+| HobbyCon · Night Market | Markham | 2026-11-05 | [Organizer listing](https://www.eventbrite.ca/e/hobby-con-markham-november-5-night-market-tickets-2004187695348) |
 | Sport Card Expo · Toronto | Mississauga | 2026-11-05 – 2026-11-08 | [Organizer listing](https://sportcardexpotoronto.com/) |
 | Card Yard · Eastgate Square | Hamilton | 2026-11-07 – 2026-11-08 | [Organizer listing](https://www.ontreasure.com/events/card-yard-in-hamilton-11072026) |
 | HobbyCon · Mississauga | Mississauga | 2026-11-07 | [Organizer listing](https://hobbyconevents.com/events-schedule) |
@@ -110,6 +111,8 @@ Review the organizer's website, Eventbrite listing and OnTreasure event/table pa
 - **Newmarket ComiCon (November 14, 2026):** Pop Culture Canada's Eventbrite page (event 1989320872280, opened October 30, 2026) confirms Saturday November 14, 10 am–3 pm, Optimist Youth Centre, 55 Forhan Avenue, C$5 online and at the door (kids 12 and under free), and lists sports-card vendors. Added October 30, 2026.
 - **Aurora ComiCon (January 3, 2027), Bowmanville ComiCon (February 21, 2027, Clarington) and Ajax ComiCon (March 14, 2027):** Pop Culture Canada's Eventbrite pages (events 2003512240043, 2003835145863, 2003735364414), opened October 30, 2026 (run 2), confirm date, venue, street address, 10 am–3 pm and C$5 online / C$10 door admission (kids 12 and under free, C$30 VIP); all list sports-card vendors. The Aurora and Bowmanville description bodies still say "2026" while titles and date headers say 2027. Added October 30, 2026 (run 2).
 - **PRO-TECT Hobby Expo · Black Friday (Newmarket):** OnTreasure now lists "PRO-TECT Hobby Expo - Black Friday at The Upper Canada Mall" for November 27–29, 2026 (event page protect-hobby-expo-the-upper-canada-mall-11272026, opened November 1, 2026, run 2), describing 48,000 sq ft. The 17600 Yonge Street address is from cardshowdirectory, which names hobbyexpo.ca as the show site (not reachable this run). PokéSats gives a Friday 4 pm start, not confirmed by the organizer, so hours, admission, table prices and card mix stay blank/unknown; Enter The Battlefield sells a Lorcana tournament at the expo on November 28. Added November 1, 2026 (run 2).
+- **HobbyCon, November 2, 2026:** HobbyCon's own Eventbrite listings add a **Vaughan night market on Tuesday November 3**, 4–9 pm at Venu Event Space, 2800 Highway 7 (event 2004187493745; admission not stated, so -1), and place the **November 5 Markham night market at New Jaasmin** (event 2004187695348, read from Eventbrite's Markham search; the detail page could not be opened, so hours stay 4–9 pm from the poster). The November 7 Mississauga listing (event 2004187860843) gives 10 am–5 pm, so the catalogue's 6 pm close was corrected; the November 15 Vaughan listing (event 2004197029266) matches 10 am–5 pm.
+- **Northside TCG November 29:** Northside's Eventbrite listing (event 2002575936534, seen in search November 2, 2026) shows Hyatt Place Toronto/Mississauga Centre, while northsidetcg.com lists Hilton Mississauga/Meadowvale; the conflict is noted in the description and the venue is unchanged.
 - Mixed collectible conventions are labeled as such. Weekly store tournaments and small trade nights are excluded.
 
 ## Organizer leads awaiting confirmation
@@ -136,6 +139,10 @@ These are accessible under **More local organizers** and are not calendar entrie
 - Northern Grails / Grails After Dark Friday night shows, Burrows Hall, Scarborough: TCDB lists October 23, 2026 (Instagram only).
 
 - [Northside TCG](https://www.northsidetcg.com/): December 12, 2026 is announced, but its city, venue and hours are still unpublished; the local-area boundary cannot yet be verified. November dates are already in the calendar.
+
+- Trading Card Con Toronto: pokeprices lists November 20–22, 2026 in Toronto citing tradingcardcon.com (not reachable November 2, 2026); no venue or ticket page found.
+
+- Northern Soccer Card Expo, Unit 5, 7093 Torbram Rd, Mississauga: tcgshowsnearme lists Saturday November 7, 2026, 6–11 pm; no organizer page found (November 2, 2026).
 
 - Durham Card Show, Ajax Convention Centre: TCDB lists December 13, 2026, 10 am–4 pm; the organizer's Facebook/Instagram could not be read.
 

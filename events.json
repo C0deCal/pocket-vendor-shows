@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "catalogue_title": "GTA & Hamilton card shows",
-  "checked_at": "2026-11-01",
+  "checked_at": "2026-11-02",
   "events": [
     {
       "id": "hobby-con-ajax-2026-10-24",
@@ -530,9 +530,9 @@
       "organizer": "HobbyCon",
       "city": "Markham",
       "province": "Ontario",
-      "venue": "Venue to be announced",
-      "address": "",
-      "venue_pending": true,
+      "venue": "New Jaasmin Banquet Hall and Convention Centre",
+      "address": "90 Nolan Court, Markham, ON L3R 4L9",
+      "venue_pending": false,
       "start_date": "2026-11-05",
       "end_date": "2026-11-05",
       "start_time": "16:00",
@@ -547,11 +547,11 @@
       "table_status": "Unknown",
       "application_deadline": "",
       "vendor_url": "https://hobbyconevents.com/vendor-application",
-      "source_url": "https://hobbyconevents.com/events-schedule",
+      "source_url": "https://www.eventbrite.ca/e/hobby-con-markham-november-5-night-market-tickets-2004187695348",
       "schedule_poster_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1024,fit=crop/mjE7OXWJovtG6qa9/6ee637da-4570-4864-b6dc-94b9b28c2bc7-y45JZnqgDVX5sFLr.jpeg",
-      "verified_at": "2026-10-20",
+      "verified_at": "2026-11-02",
       "event_status": "Scheduled",
-      "description": "An evening of trading cards and collectibles in Markham. The organizer has announced the date and 4–9 pm hours; the venue and street address are still to be announced. Use the vendor application to request this date. Table prices, availability and booking opening date are not published.",
+      "description": "An evening Pokemon and TCG night market in Markham. HobbyCon's own Eventbrite listing \"HOBBY CON MARKHAM NOVEMBER 5 NIGHT MARKET\" (seen in Eventbrite's Markham search on November 2, 2026) puts it on Thursday November 5 from 4 pm at New Jaasmin Banquet Hall and Convention Centre, the same venue as the October 29 night market; the street address is New Jaasmin's. The 4-9 pm hours come from HobbyCon's night-market poster. Use the vendor application to request a table. Table prices, availability and booking opening date are not published.",
       "daily_hours": [],
       "parking": "Free parking",
       "setup_time": "",
@@ -562,7 +562,8 @@
       "popularity": "Unknown",
       "popularity_note": "",
       "popularity_source_url": "",
-      "demand_history": []
+      "demand_history": [],
+      "last_checked": "2026-11-02"
     },
     {
       "id": "sport-card-expo-toronto-2026-11-05",
@@ -677,7 +678,7 @@
       "start_date": "2026-11-07",
       "end_date": "2026-11-07",
       "start_time": "10:00",
-      "end_time": "18:00",
+      "end_time": "17:00",
       "timezone": "America/Toronto",
       "categories": [
         "Pokemon",
@@ -688,11 +689,11 @@
       "table_status": "Unknown",
       "application_deadline": "",
       "vendor_url": "https://hobbyconevents.com/vendor-application",
-      "source_url": "https://hobbyconevents.com/events-schedule",
+      "source_url": "https://www.eventbrite.ca/e/mississauga-pokemon-tcg-card-show-free-entry-november-7-hobby-con-tickets-2004187860843",
       "schedule_poster_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1024,fit=crop/mjE7OXWJovtG6qa9/copy-of-copy-of-talking-vendor-application-6-iT1njszpujhOtj6T.jpg",
-      "verified_at": "2026-10-20",
+      "verified_at": "2026-11-02",
       "event_status": "Scheduled",
-      "description": "A free-entry Pokemon and collectibles show on HobbyCon's official 2026 schedule. Use the vendor application to request this date. Table prices, availability and booking opening date are not published.",
+      "description": "A free-entry Pokemon and collectibles show on HobbyCon's official 2026 schedule. HobbyCon's Eventbrite listing (event 2004187860843, checked November 2, 2026) gives Saturday November 7, 10 am-5 pm at Eros Convention Center, 2360 Lucknow Dr (the catalogue previously had 6 pm); its description text wrongly mentions September 5. Use the vendor application to request this date. Table prices, availability and booking opening date are not published.",
       "daily_hours": [],
       "parking": "",
       "setup_time": "",
@@ -703,7 +704,8 @@
       "popularity": "Unknown",
       "popularity_note": "",
       "popularity_source_url": "",
-      "demand_history": []
+      "demand_history": [],
+      "last_checked": "2026-11-02"
     },
     {
       "id": "collectors-clash-vaughan-2026-11-08",
@@ -955,11 +957,11 @@
       "table_status": "Unknown",
       "application_deadline": "",
       "vendor_url": "https://hobbyconevents.com/vendor-application",
-      "source_url": "https://hobbyconevents.com/events-schedule",
+      "source_url": "https://www.eventbrite.ca/e/hobby-con-vaughan-november-15-pokemon-cards-tcg-collectibles-convention-tickets-2004197029266",
       "schedule_poster_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1024,fit=crop/mjE7OXWJovtG6qa9/copy-of-copy-of-talking-vendor-application-6-iT1njszpujhOtj6T.jpg",
-      "verified_at": "2026-10-20",
+      "verified_at": "2026-11-02",
       "event_status": "Scheduled",
-      "description": "A free-entry Pokemon and collectibles show on HobbyCon's official 2026 schedule. Use the vendor application to request this date. Table prices, availability and booking opening date are not published.",
+      "description": "A free-entry Pokemon and collectibles show on HobbyCon's official 2026 schedule. HobbyCon's Eventbrite listing (event 2004197029266, checked November 2, 2026) confirms Sunday November 15, 10 am-5 pm at Venu Event Space, 2800 Highway 7. Use the vendor application to request this date. Table prices, availability and booking opening date are not published.",
       "daily_hours": [],
       "parking": "",
       "setup_time": "",
@@ -970,7 +972,8 @@
       "popularity": "Unknown",
       "popularity_note": "",
       "popularity_source_url": "",
-      "demand_history": []
+      "demand_history": [],
+      "last_checked": "2026-11-02"
     },
     {
       "id": "mississauga-card-show-2026-11-15",
@@ -1363,13 +1366,13 @@
       "source_url": "https://www.northsidetcg.com/shows/2026-11-29",
       "verified_at": "2026-10-20",
       "event_status": "Scheduled",
-      "description": "Northside's November 29 indoor card show, with free attendee admission. The published hours are noon to 19:00. Vendor access codes and current table availability must be obtained from the organizer.",
+      "description": "Northside's November 29 indoor card show, with free attendee admission. The published hours are noon to 19:00. Vendor access codes and current table availability must be obtained from the organizer. Venue conflict: Northside's Eventbrite listing for November 29 (event 2002575936534, seen in Eventbrite search on November 2, 2026) shows Hyatt Place Toronto/Mississauga Centre, 5787 Hurontario St, while northsidetcg.com lists Hilton Mississauga/Meadowvale; confirm with the organizer before going.",
       "daily_hours": [],
       "parking": "Paid hotel self-parking; the hotel sets the rate.",
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-10-28"
+      "last_checked": "2026-11-02"
     },
     {
       "id": "vaughan-toy-2026-11-29",
@@ -2451,7 +2454,41 @@
       "archived": false,
       "last_checked": "2026-11-01",
       "venue_pending": false
+    },
+    {
+      "id": "hobby-con-night-market-vaughan-2026-11-03",
+      "title": "HobbyCon · Night Market · Vaughan",
+      "organizer": "HobbyCon",
+      "city": "Vaughan",
+      "province": "Ontario",
+      "venue": "Venu Event Space",
+      "address": "2800 Highway 7, Vaughan, ON L4K 1W8",
+      "venue_pending": false,
+      "start_date": "2026-11-03",
+      "end_date": "2026-11-03",
+      "start_time": "16:00",
+      "end_time": "21:00",
+      "timezone": "America/Toronto",
+      "categories": [
+        "Pokemon",
+        "Mixed"
+      ],
+      "admission_cents": -1,
+      "table_fee_cents": -1,
+      "table_status": "Unknown",
+      "application_deadline": "",
+      "vendor_url": "https://hobbyconevents.com/vendor-application",
+      "source_url": "https://www.eventbrite.ca/e/hobby-con-vaughan-november-3-night-market-pokemontcg-trade-show-tickets-2004187493745",
+      "verified_at": "2026-11-02",
+      "event_status": "Scheduled",
+      "description": "A Tuesday-evening Pokemon and TCG trade night market. HobbyCon's own Eventbrite listing \"Hobby Con Vaughan NOVEMBER 3 NIGHT MARKET\" (event 2004187493745, opened November 2, 2026) confirms Tuesday November 3, 2026, 4-9 pm, at Venu Event Space, 2800 Highway 7, Vaughan. The page does not state admission, parking or table prices, so check with the organizer.",
+      "daily_hours": [],
+      "parking": "",
+      "setup_time": "",
+      "is_demo": false,
+      "archived": false,
+      "last_checked": "2026-11-02"
     }
   ],
-  "catalogue_revision": "2026-11-01-2"
+  "catalogue_revision": "2026-11-02-1"
 }
