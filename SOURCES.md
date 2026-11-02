@@ -1,6 +1,6 @@
 # Event sources
 
-Catalogue checked **November 2, 2026**. **66 upcoming entries** across the Greater Toronto and Hamilton Area, including HobbyCon dates read from official posters and entries reviewed through OnTreasure, Eventbrite and organizer websites. The December 17 Markham night market has an announced date and city but no venue yet; the October 29 and November 5 ones are confirmed at New Jaasmin. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
+Catalogue checked **November 2, 2026**. **69 upcoming entries** across the Greater Toronto and Hamilton Area, including HobbyCon dates read from official posters and entries reviewed through OnTreasure, Eventbrite and organizer websites. The December 17 Markham night market has an announced date and city but no venue yet; the October 29 and November 5 ones are confirmed at New Jaasmin. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
 
 ## Area
 
@@ -44,12 +44,14 @@ Brampton is inside the area again since October 24, 2026, so the older Brampton 
 | Card Yard · OHL Card Show | Brampton | 2026-11-15 | [Organizer listing](https://www.ontreasure.com/events/ohl-card-show-11152026) |
 | CardFesta · Winter Expo | Brampton | 2026-11-20 – 2026-11-22 | [Organizer listing](https://www.cardfesta.com/upcoming-events/winter-expo) |
 | Mississauga Cards & Collectibles · Fall | Mississauga | 2026-11-21 | [Organizer listing](https://www.ontreasure.com/events/free-mississauga-cards-collectibles-show-fall-edition-by-united-hobby-collective-11212026) |
+| HobbyCon · Durham | Ajax | 2026-11-21 | [Organizer listing](https://www.eventbrite.ca/e/hobby-con-durham-free-trading-card-collectibles-event-ajax-on-tickets-2004197469583) |
 | Ancaster Toy & Collectibles Expo | Hamilton | 2026-11-22 | [Organizer listing](https://collectorshows.ca/sunday-november-22nd-the-ancaster-toy-and-collectibles-expo/) |
 | PRO-TECT Hobby Expo · Black Friday | Newmarket | 2026-11-27 – 2026-11-29 | [Organizer listing](https://www.ontreasure.com/events/protect-hobby-expo-the-upper-canada-mall-11272026) |
 | CanGeek Collectors Market | Scarborough | 2026-11-28 | [Organizer listing](https://www.kijiji.ca/v-events/city-of-toronto/the-cangeek-collectors-market/1743636574) |
 | HobbyVerse · Holiday Saturday | Markham | 2026-11-28 | [Organizer listing](https://www.eventbrite.com/e/hobbyverse-expo-holiday-edition-tickets-2003620817802) |
 | Vaughan Con · Holiday Edition | Vaughan | 2026-11-28 | [Organizer listing](https://www.eventbrite.ca/e/vaughan-con-holiday-edition-2026-tickets-2001401608086) |
 | HobbyVerse · Holiday Sunday | Markham | 2026-11-29 | [Organizer listing](https://www.eventbrite.com/e/hobbyverse-expo-holiday-edition-tickets-2003620817802) |
+| HobbyCon · Markham | Markham | 2026-11-29 | [Organizer listing](https://www.eventbrite.ca/e/hobby-con-markham-november-29-tickets-2004207068293) |
 | Northside TCG · Mississauga | Mississauga | 2026-11-29 | [Organizer listing](https://www.northsidetcg.com/shows/2026-11-29) |
 | Vaughan Toy & Nostalgia Show | Vaughan | 2026-11-29 | [Organizer listing](https://vaughantoyshow.com/) |
 | CSC · Anniversary Show | Mississauga | 2026-12-04 – 2026-12-06 | [Organizer listing](https://csceventhq.com/) |
@@ -60,6 +62,7 @@ Brampton is inside the area again since October 24, 2026, so the older Brampton 
 | Ancaster Toy & Collectibles Expo · December | Hamilton | 2026-12-13 | [Organizer listing](https://collectorshows.ca/sunday-december-13th-the-ancaster-toy-and-collectibles-expo/) |
 | HobbyCon · Night Market · venue TBA | Markham | 2026-12-17 | [Organizer listing](https://hobbyconevents.com/events-schedule) |
 | Collectfinity · Holiday Expo | Vaughan | 2026-12-19 | [Organizer listing](https://www.eventbrite.ca/e/collectfinitycom-collectables-comics-cards-games-toys-expo-gta-tickets-1998851009176) |
+| NACE · Grand Victorian Card Show · December | Mississauga | 2026-12-19 – 2026-12-20 | [Organizer listing](https://www.eventbrite.ca/e/free-pokemon-and-sports-card-event-presented-by-nace-tickets-2004035535233) |
 | HobbyCon · Scarborough | Scarborough | 2026-12-20 | [Organizer listing](https://hobbyconevents.com/events-schedule) |
 | Greater Toronto · Holiday Expo | North York | 2026-12-27 – 2026-12-28 | [Organizer listing](https://www.eventbrite.ca/e/greater-toronto-sports-card-show-2-day-holiday-expo-tickets-2000201699126) |
 | HobbyCon · Markham | Markham | 2026-12-27 | [Organizer listing](https://hobbyconevents.com/events-schedule) |
@@ -113,6 +116,7 @@ Review the organizer's website, Eventbrite listing and OnTreasure event/table pa
 - **PRO-TECT Hobby Expo · Black Friday (Newmarket):** OnTreasure now lists "PRO-TECT Hobby Expo - Black Friday at The Upper Canada Mall" for November 27–29, 2026 (event page protect-hobby-expo-the-upper-canada-mall-11272026, opened November 1, 2026, run 2), describing 48,000 sq ft. The 17600 Yonge Street address is from cardshowdirectory, which names hobbyexpo.ca as the show site (not reachable this run). PokéSats gives a Friday 4 pm start, not confirmed by the organizer, so hours, admission, table prices and card mix stay blank/unknown; Enter The Battlefield sells a Lorcana tournament at the expo on November 28. Added November 1, 2026 (run 2).
 - **HobbyCon, November 2, 2026:** HobbyCon's own Eventbrite listings add a **Vaughan night market on Tuesday November 3**, 4–9 pm at Venu Event Space, 2800 Highway 7 (event 2004187493745; admission not stated, so -1), and place the **November 5 Markham night market at New Jaasmin** (event 2004187695348, read from Eventbrite's Markham search; the detail page could not be opened, so hours stay 4–9 pm from the poster). The November 7 Mississauga listing (event 2004187860843) gives 10 am–5 pm, so the catalogue's 6 pm close was corrected; the November 15 Vaughan listing (event 2004197029266) matches 10 am–5 pm.
 - **Northside TCG November 29:** Northside's Eventbrite listing (event 2002575936534, seen in search November 2, 2026) shows Hyatt Place Toronto/Mississauga Centre, while northsidetcg.com lists Hilton Mississauga/Meadowvale; the conflict is noted in the description and the venue is unchanged.
+- **November 2, 2026 (run 2):** HobbyCon's Eventbrite adds **Durham (Ajax) on November 21**, 10 am-3 pm, Durham Convention Centre, free (event 2004197469583), and **Markham on November 29**, 10 am-3 pm, New Jaasmin, free entry and parking (event 2004207068293). NACE's Eventbrite adds **December 19-20** at the Grand Victorian, Mississauga, 11 am-6 pm, free (event 2004035535233). The poster's November 15 Markham date has no Eventbrite page while November 29 does, so it may have moved; it stays Scheduled with a note until HobbyCon confirms. hobbyconevents.com, northsidetcg.com, cardfesta.com and theshowcanada.ca could not be opened this run; Eventbrite and OnTreasure were read directly.
 - Mixed collectible conventions are labeled as such. Weekly store tournaments and small trade nights are excluded.
 
 ## Organizer leads awaiting confirmation

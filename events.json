@@ -921,7 +921,7 @@
       "schedule_poster_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1024,fit=crop/mjE7OXWJovtG6qa9/copy-of-copy-of-talking-vendor-application-6-iT1njszpujhOtj6T.jpg",
       "verified_at": "2026-10-20",
       "event_status": "Scheduled",
-      "description": "A free-entry Pokemon and collectibles show on HobbyCon's official 2026 schedule. Use the vendor application to request this date. Table prices, availability and booking opening date are not published.",
+      "description": "A free-entry Pokemon and collectibles show on HobbyCon's official 2026 schedule. Use the vendor application to request this date. Table prices, availability and booking opening date are not published. As of November 2, 2026, HobbyCon's Eventbrite lists November 29 at New Jaasmin but no November 15 Markham page, and Vaughan is on November 15, so check with the organizer before going.",
       "daily_hours": [],
       "parking": "",
       "setup_time": "",
@@ -932,7 +932,8 @@
       "popularity": "Unknown",
       "popularity_note": "",
       "popularity_source_url": "",
-      "demand_history": []
+      "demand_history": [],
+      "last_checked": "2026-11-02"
     },
     {
       "id": "hobby-con-vaughan-2026-11-15",
@@ -2488,7 +2489,120 @@
       "is_demo": false,
       "archived": false,
       "last_checked": "2026-11-02"
+    },
+    {
+      "province": "Ontario",
+      "venue_pending": false,
+      "timezone": "America/Toronto",
+      "table_fee_cents": -1,
+      "table_status": "Unknown",
+      "application_deadline": "",
+      "verified_at": "2026-11-02",
+      "event_status": "Scheduled",
+      "daily_hours": [],
+      "setup_time": "",
+      "is_demo": false,
+      "archived": false,
+      "last_checked": "2026-11-02",
+      "id": "hobby-con-ajax-2026-11-21",
+      "title": "HobbyCon · Durham",
+      "organizer": "HobbyCon",
+      "city": "Ajax",
+      "venue": "Durham Convention Centre",
+      "address": "630 Beck Crescent, Ajax, ON L1Z 1C9",
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "start_time": "10:00",
+      "end_time": "15:00",
+      "categories": [
+        "Pokemon",
+        "Mixed"
+      ],
+      "admission_cents": 0,
+      "vendor_url": "https://hobbyconevents.com/vendor-application",
+      "source_url": "https://www.eventbrite.ca/e/hobby-con-durham-free-trading-card-collectibles-event-ajax-on-tickets-2004197469583",
+      "parking": "",
+      "description": "A free Pokemon and TCG show to trade, buy and sell cards. HobbyCon's own Eventbrite listing (event 2004197469583, opened November 2, 2026) confirms Saturday November 21, 2026, 10 am-3 pm, at the Durham Convention Centre, 630 Beck Crescent, Ajax. Parking and table prices are not stated."
+    },
+    {
+      "province": "Ontario",
+      "venue_pending": false,
+      "timezone": "America/Toronto",
+      "table_fee_cents": -1,
+      "table_status": "Unknown",
+      "application_deadline": "",
+      "verified_at": "2026-11-02",
+      "event_status": "Scheduled",
+      "daily_hours": [],
+      "setup_time": "",
+      "is_demo": false,
+      "archived": false,
+      "last_checked": "2026-11-02",
+      "id": "hobby-con-markham-2026-11-29",
+      "title": "HobbyCon · Markham",
+      "organizer": "HobbyCon",
+      "city": "Markham",
+      "venue": "New Jaasmin Banquet Hall and Convention Centre",
+      "address": "90 Nolan Court, Markham, ON L3R 4L9",
+      "start_date": "2026-11-29",
+      "end_date": "2026-11-29",
+      "start_time": "10:00",
+      "end_time": "15:00",
+      "categories": [
+        "Pokemon",
+        "Mixed"
+      ],
+      "admission_cents": 0,
+      "vendor_url": "https://hobbyconevents.com/vendor-application",
+      "source_url": "https://www.eventbrite.ca/e/hobby-con-markham-november-29-tickets-2004207068293",
+      "parking": "Free parking.",
+      "description": "A free Pokemon and TCG buy, sell and trade show. HobbyCon's own Eventbrite listing \"HOBBY CON MARKHAM NOVEMBER 29\" (event 2004207068293, opened November 2, 2026) confirms Sunday November 29, 2026, 10 am-3 pm, at New Jaasmin, 90 Nolan Court, with free entry and free parking. Table prices are not stated."
+    },
+    {
+      "province": "Ontario",
+      "venue_pending": false,
+      "timezone": "America/Toronto",
+      "table_fee_cents": -1,
+      "table_status": "Unknown",
+      "application_deadline": "",
+      "verified_at": "2026-11-02",
+      "event_status": "Scheduled",
+      "daily_hours": [
+        {
+          "date": "2026-12-19",
+          "start": "11:00",
+          "end": "18:00"
+        },
+        {
+          "date": "2026-12-20",
+          "start": "11:00",
+          "end": "18:00"
+        }
+      ],
+      "setup_time": "",
+      "is_demo": false,
+      "archived": false,
+      "last_checked": "2026-11-02",
+      "id": "nace-mississauga-2026-12-19",
+      "title": "NACE · Grand Victorian Card Show · December",
+      "organizer": "North American Card Exchange",
+      "city": "Mississauga",
+      "venue": "Grand Victorian Convention Centre",
+      "address": "175 Derry Road East, Mississauga, ON L5T 2Z7",
+      "start_date": "2026-12-19",
+      "end_date": "2026-12-20",
+      "start_time": "11:00",
+      "end_time": "18:00",
+      "categories": [
+        "Pokemon",
+        "Sports"
+      ],
+      "admission_cents": 0,
+      "vendor_url": "",
+      "source_url": "https://www.eventbrite.ca/e/free-pokemon-and-sports-card-event-presented-by-nace-tickets-2004035535233",
+      "parking": "Free parking.",
+      "description": "Free Pokemon and sports-card show by NACE (North American Card Exchange). NACE's Eventbrite listing (event 2004035535233, opened November 2, 2026) confirms Saturday-Sunday December 19-20, 2026, 11 am-6 pm both days with doors at 10:30 am, at the Grand Victorian Convention Centre, 175 Derry Road East, with free admission and free parking. Its overview text says Brampton, but the venue address is in Mississauga. Table prices are not stated."
     }
   ],
-  "catalogue_revision": "2026-11-02-1"
+  "catalogue_revision": "2026-11-02-2"
 }
