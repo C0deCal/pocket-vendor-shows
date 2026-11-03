@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "catalogue_title": "GTA & Hamilton card shows",
-  "checked_at": "2026-11-02",
+  "checked_at": "2026-11-03",
   "events": [
     {
       "id": "hobby-con-ajax-2026-10-24",
@@ -765,16 +765,17 @@
       "table_status": "Unknown",
       "application_deadline": "",
       "vendor_url": "https://hobbyconevents.com/vendor-application",
-      "source_url": "https://hobbyconevents.com/events-schedule",
+      "source_url": "https://www.eventbrite.ca/e/hobby-con-scarborough-card-show-november-8-pokemon-tcg-collectibles-tickets-2004188425532",
       "schedule_poster_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1024,fit=crop/mjE7OXWJovtG6qa9/copy-of-copy-of-talking-vendor-application-6-iT1njszpujhOtj6T.jpg",
-      "verified_at": "2026-10-20",
+      "verified_at": "2026-11-03",
       "event_status": "Scheduled",
-      "description": "A free-entry Pokemon and collectibles show on HobbyCon's official 2026 schedule. Use the vendor application to request this date. Table prices, availability and booking opening date are not published.",
+      "description": "A free-entry Pokemon and collectibles show on HobbyCon's official 2026 schedule. Use the vendor application to request this date. Table prices, availability and booking opening date are not published. HobbyCon's Eventbrite listing (event 2004188425532, opened November 3, 2026) confirms Sunday November 8, 10 am-3 pm, at Brighton Convention Centre, and mentions a free meet-and-greet with David Sobolov.",
       "daily_hours": [],
       "parking": "",
       "setup_time": "",
       "is_demo": false,
       "archived": false,
+      "last_checked": "2026-11-03",
       "table_booking_open_date": "",
       "table_booking_source_url": "",
       "popularity": "Unknown",
@@ -2604,5 +2605,5 @@
       "description": "Free Pokemon and sports-card show by NACE (North American Card Exchange). NACE's Eventbrite listing (event 2004035535233, opened November 2, 2026) confirms Saturday-Sunday December 19-20, 2026, 11 am-6 pm both days with doors at 10:30 am, at the Grand Victorian Convention Centre, 175 Derry Road East, with free admission and free parking. Its overview text says Brampton, but the venue address is in Mississauga. Table prices are not stated."
     }
   ],
-  "catalogue_revision": "2026-11-02-2"
+  "catalogue_revision": "2026-11-03-1"
 }
