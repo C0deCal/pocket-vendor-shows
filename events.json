@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "catalogue_title": "GTA & Hamilton card shows",
-  "checked_at": "2026-11-04",
+  "checked_at": "2026-11-05",
   "events": [
     {
       "id": "hobby-con-ajax-2026-10-24",
@@ -549,9 +549,9 @@
       "vendor_url": "https://hobbyconevents.com/vendor-application",
       "source_url": "https://www.eventbrite.ca/e/hobby-con-markham-november-5-night-market-tickets-2004187695348",
       "schedule_poster_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1024,fit=crop/mjE7OXWJovtG6qa9/6ee637da-4570-4864-b6dc-94b9b28c2bc7-y45JZnqgDVX5sFLr.jpeg",
-      "verified_at": "2026-11-02",
+      "verified_at": "2026-11-05",
       "event_status": "Scheduled",
-      "description": "An evening Pokemon and TCG night market in Markham. HobbyCon's own Eventbrite listing \"HOBBY CON MARKHAM NOVEMBER 5 NIGHT MARKET\" (seen in Eventbrite's Markham search on November 2, 2026) puts it on Thursday November 5 from 4 pm at New Jaasmin Banquet Hall and Convention Centre, the same venue as the October 29 night market; the street address is New Jaasmin's. The 4-9 pm hours come from HobbyCon's night-market poster. Use the vendor application to request a table. Table prices, availability and booking opening date are not published.",
+      "description": "An evening Pokemon and TCG night market in Markham. HobbyCon's Eventbrite page (event 2004187695348), opened November 5, 2026, confirms Thursday November 5, 4-9 pm, at New Jaasmin Banquet Hall and Convention Centre, 90 Nolan Court, with free entry and free parking. Use the vendor application to request a table. Table prices, availability and booking opening date are not published.",
       "daily_hours": [],
       "parking": "Free parking",
       "setup_time": "",
@@ -563,7 +563,7 @@
       "popularity_note": "",
       "popularity_source_url": "",
       "demand_history": [],
-      "last_checked": "2026-11-04"
+      "last_checked": "2026-11-05"
     },
     {
       "id": "sport-card-expo-toronto-2026-11-05",
@@ -618,7 +618,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04"
+      "last_checked": "2026-11-05"
     },
     {
       "id": "card-yard-hamilton-2026-11-07",
@@ -705,7 +705,7 @@
       "popularity_note": "",
       "popularity_source_url": "",
       "demand_history": [],
-      "last_checked": "2026-11-04"
+      "last_checked": "2026-11-05"
     },
     {
       "id": "collectors-clash-vaughan-2026-11-08",
@@ -775,7 +775,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04",
+      "last_checked": "2026-11-05",
       "table_booking_open_date": "",
       "table_booking_source_url": "",
       "popularity": "Unknown",
@@ -849,7 +849,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04"
+      "last_checked": "2026-11-05"
     },
     {
       "id": "nace-mississauga-2026-11-14",
@@ -875,7 +875,7 @@
       "vendor_url": "",
       "source_url": "https://www.ontreasure.com/events/nace-free-pokemon-and-sports-card-event-11142026",
       "verified_at": "2026-10-29",
-      "last_checked": "2026-11-04",
+      "last_checked": "2026-11-05",
       "event_status": "Scheduled",
       "description": "Free Pokemon and sports-card show by NACE (North American Card Exchange) at the Grand Victorian Convention Centre, Saturday-Sunday November 14-15. NACE's Eventbrite listing (https://www.eventbrite.ca/e/free-pokemon-and-sports-card-event-presented-by-nace-tickets-2004035147072, checked October 29, 2026) gives 11 am-6 pm both days with doors at 10:30 am, 175 Derry Road East, free admission and free parking. Singles, graded slabs and sealed product; vendors buying and trading. Table prices are not published; vendor tables are arranged through the organizer's social bio link.",
       "daily_hours": [
@@ -975,7 +975,7 @@
       "popularity_note": "",
       "popularity_source_url": "",
       "demand_history": [],
-      "last_checked": "2026-11-04"
+      "last_checked": "2026-11-05"
     },
     {
       "id": "mississauga-card-show-2026-11-15",
@@ -1042,7 +1042,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04",
+      "last_checked": "2026-11-05",
       "venue_pending": false
     },
     {
@@ -1134,7 +1134,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04",
+      "last_checked": "2026-11-05",
       "venue_pending": false
     },
     {
@@ -1144,7 +1144,7 @@
       "city": "Mississauga",
       "province": "Ontario",
       "venue": "Eden United Church",
-      "address": "3051 Battleford Road, Mississauga, ON",
+      "address": "3051 Battleford Road, Mississauga, ON L5N 5Z9",
       "start_date": "2026-11-21",
       "end_date": "2026-11-21",
       "start_time": "11:00",
@@ -1161,16 +1161,16 @@
       "table_status": "Unknown",
       "application_deadline": "",
       "vendor_url": "https://www.ontreasure.com/events/free-mississauga-cards-collectibles-show-fall-edition-by-united-hobby-collective-11212026/tables",
-      "source_url": "https://www.ontreasure.com/events/free-mississauga-cards-collectibles-show-fall-edition-by-united-hobby-collective-11212026",
-      "verified_at": "2026-10-20",
+      "source_url": "https://www.eventbrite.ca/e/mississauga-cards-and-collectibles-show-fall-eevolution-tickets-2004026123081",
+      "verified_at": "2026-11-05",
       "event_status": "Scheduled",
-      "description": "Free cards, toys, games and collectibles show. Tables advertised from C$120; check the booking map for current availability and fees.",
+      "description": "Free cards, toys, games and collectibles show (Fall Eevolution) by United Hobby Collective. The organizer's Eventbrite page, opened November 5, 2026, confirms Saturday November 21, 11 am-5 pm, free entry and free parking. Tables advertised from C$120 on the earlier OnTreasure listing; check the booking map for current availability and fees.",
       "daily_hours": [],
       "parking": "Free parking",
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04"
+      "last_checked": "2026-11-05"
     },
     {
       "id": "ancaster-toy-collectibles-expo-2026-11-22",
@@ -1200,7 +1200,7 @@
       "event_status": "Scheduled",
       "description": "The organizer's page and the Ancaster Agricultural Society calendar both confirm Sunday November 22, 2026, 9:30 am–2:30 pm; vendors include sports and non-sport cards, Pokemon, Magic and Yu-Gi-Oh! among toys and collectibles. Cash admission: $10 from 9:30, $5 from 10:30, $3 from 1 pm, under-12 free; tables by phone or email (Duane, 226-559-7400).",
       "daily_hours": [],
-      "parking": "Free",
+      "parking": "Free parking",
       "setup_time": "06:30",
       "is_demo": false,
       "archived": false,
@@ -1272,7 +1272,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04"
+      "last_checked": "2026-11-05"
     },
     {
       "id": "vaughan-con-2026-11-28",
@@ -1304,7 +1304,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04"
+      "last_checked": "2026-11-05"
     },
     {
       "id": "hobbyverse-markham-2026-11-29",
@@ -1339,7 +1339,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04"
+      "last_checked": "2026-11-05"
     },
     {
       "id": "northside-mississauga-2026-11-29",
@@ -1374,7 +1374,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04"
+      "last_checked": "2026-11-05"
     },
     {
       "id": "vaughan-toy-2026-11-29",
@@ -1441,7 +1441,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04"
+      "last_checked": "2026-11-05"
     },
     {
       "id": "csc-anniversary-mississauga-2026-12-04",
@@ -1538,7 +1538,7 @@
       "event_status": "Scheduled",
       "description": "The organizer's schedule lists Sunday December 6, 2026; the Ancaster Agricultural Society calendar shows the same date, 9:30 am–2:30 pm, as the 'Ancaster Collectibles Show & Sale'. Vintage toys and collectibles with vintage sports and non-sport cards; cash admission $10 early, $5 general, $3 late, under-12 free (per To Do Canada listing).",
       "daily_hours": [],
-      "parking": "Free",
+      "parking": "Free parking",
       "setup_time": "",
       "is_demo": false,
       "archived": false,
@@ -1689,7 +1689,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04"
+      "last_checked": "2026-11-05"
     },
     {
       "id": "hobby-con-scarborough-2026-12-20",
@@ -1773,7 +1773,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04"
+      "last_checked": "2026-11-05"
     },
     {
       "id": "hobby-con-markham-2026-12-27",
@@ -1846,7 +1846,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04",
+      "last_checked": "2026-11-05",
       "venue_pending": false
     },
     {
@@ -2129,7 +2129,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04",
+      "last_checked": "2026-11-05",
       "venue_pending": false
     },
     {
@@ -2389,7 +2389,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04",
+      "last_checked": "2026-11-05",
       "venue_pending": false
     },
     {
@@ -2423,7 +2423,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04",
+      "last_checked": "2026-11-05",
       "venue_pending": false
     },
     {
@@ -2506,7 +2506,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-02",
+      "last_checked": "2026-11-05",
       "id": "hobby-con-ajax-2026-11-21",
       "title": "HobbyCon · Durham",
       "organizer": "HobbyCon",
@@ -2540,7 +2540,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04",
+      "last_checked": "2026-11-05",
       "id": "hobby-con-markham-2026-11-29",
       "title": "HobbyCon · Markham",
       "organizer": "HobbyCon",
@@ -2613,12 +2613,12 @@
       "city": "Oakville",
       "province": "Ontario",
       "venue": "Era Event Venue",
-      "address": "2496 Bristol Circle, Oakville, ON",
+      "address": "2496 Bristol Circle, Oakville, ON L6H 5S1",
       "venue_pending": false,
       "start_date": "2026-11-22",
       "end_date": "2026-11-22",
       "start_time": "10:00",
-      "end_time": "",
+      "end_time": "16:00",
       "timezone": "America/Toronto",
       "categories": [
         "Pokemon",
@@ -2630,15 +2630,15 @@
       "application_deadline": "",
       "vendor_url": "https://hobbyconevents.com/vendor-application",
       "source_url": "https://www.eventbrite.ca/e/hobby-con-oakville-free-trading-card-collectibles-event-november-22-tickets-2004206884744",
-      "verified_at": "2026-11-03",
+      "verified_at": "2026-11-05",
       "event_status": "Scheduled",
-      "description": "A free trading-card and collectibles show. HobbyCon's Eventbrite listing (event 2004206884744), read from Eventbrite search on November 3, 2026, shows Sunday November 22, 10 am, at Era Event Venue, Oakville. The detail page could not be opened, so the closing time, parking and table prices are unknown. The street address comes from Visit Oakville's listings of earlier HobbyCon shows at this venue.",
+      "description": "A free trading-card and collectibles show. HobbyCon's Eventbrite page (event 2004206884744), opened November 5, 2026, confirms Sunday November 22, 10 am-4 pm, at Era Event Venue, 2496 Bristol Circle, with free entry and free parking. Table prices are unknown.",
       "daily_hours": [],
-      "parking": "",
+      "parking": "Free parking",
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04"
+      "last_checked": "2026-11-05"
     },
     {
       "id": "uhc-mississauga-2026-12-19",
@@ -2671,8 +2671,8 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04"
+      "last_checked": "2026-11-05"
     }
   ],
-  "catalogue_revision": "2026-11-04-2"
+  "catalogue_revision": "2026-11-05-1"
 }
