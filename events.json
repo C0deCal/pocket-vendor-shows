@@ -663,7 +663,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04",
+      "last_checked": "2026-11-05",
       "venue_pending": false
     },
     {
@@ -740,7 +740,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04"
+      "last_checked": "2026-11-05"
     },
     {
       "id": "hobby-con-scarborough-2026-11-08",
@@ -814,7 +814,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04",
+      "last_checked": "2026-11-05",
       "venue_pending": false
     },
     {
@@ -1069,7 +1069,7 @@
       "vendor_url": "https://www.ontreasure.com/events/ohl-card-show-11152026",
       "source_url": "https://www.ontreasure.com/events/ohl-card-show-11152026",
       "verified_at": "2026-10-27",
-      "last_checked": "2026-11-04",
+      "last_checked": "2026-11-05",
       "event_status": "Scheduled",
       "description": "Card Yard's OnTreasure listing confirms the OHL Card Show in Brampton on Sunday, November 15, 2026. The CAA Centre venue (home of the OHL Brampton Steelheads; the show runs alongside a game that day) comes from cardshowdirectory and PokéSats, which agree; the booking page itself could not be opened. Hours, admission and table prices are not confirmed.",
       "daily_hours": [],
@@ -1398,7 +1398,7 @@
       "application_deadline": "",
       "vendor_url": "https://vaughantoyshow.com/",
       "source_url": "https://vaughantoyshow.com/",
-      "verified_at": "2026-10-20",
+      "verified_at": "2026-11-05",
       "event_status": "Scheduled",
       "description": "A mixed nostalgia show with 100 advertised vendor tables. Trading cards feature alongside toys, comics, games and memorabilia. Check the organizer for current admission.",
       "daily_hours": [],
@@ -1406,7 +1406,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-03"
+      "last_checked": "2026-11-05"
     },
     {
       "id": "holonight-toronto-2026-12-04",
@@ -2321,7 +2321,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04",
+      "last_checked": "2026-11-05",
       "venue_pending": false
     },
     {
@@ -2355,7 +2355,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04",
+      "last_checked": "2026-11-05",
       "venue_pending": false
     },
     {
@@ -2456,7 +2456,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04",
+      "last_checked": "2026-11-05",
       "venue_pending": false
     },
     {
@@ -2674,5 +2674,5 @@
       "last_checked": "2026-11-05"
     }
   ],
-  "catalogue_revision": "2026-11-05-1"
+  "catalogue_revision": "2026-11-05-2"
 }
