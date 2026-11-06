@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "catalogue_title": "GTA & Hamilton card shows",
-  "checked_at": "2026-11-05",
+  "checked_at": "2026-11-06",
   "events": [
     {
       "id": "hobby-con-ajax-2026-10-24",
@@ -618,7 +618,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05"
+      "last_checked": "2026-11-06"
     },
     {
       "id": "card-yard-hamilton-2026-11-07",
@@ -663,7 +663,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05",
+      "last_checked": "2026-11-06",
       "venue_pending": false
     },
     {
@@ -705,7 +705,7 @@
       "popularity_note": "",
       "popularity_source_url": "",
       "demand_history": [],
-      "last_checked": "2026-11-05"
+      "last_checked": "2026-11-06"
     },
     {
       "id": "collectors-clash-vaughan-2026-11-08",
@@ -740,7 +740,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05"
+      "last_checked": "2026-11-06"
     },
     {
       "id": "hobby-con-scarborough-2026-11-08",
@@ -775,7 +775,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05",
+      "last_checked": "2026-11-06",
       "table_booking_open_date": "",
       "table_booking_source_url": "",
       "popularity": "Unknown",
@@ -814,7 +814,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05",
+      "last_checked": "2026-11-06",
       "venue_pending": false
     },
     {
@@ -849,7 +849,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05"
+      "last_checked": "2026-11-06"
     },
     {
       "id": "nace-mississauga-2026-11-14",
@@ -875,7 +875,7 @@
       "vendor_url": "",
       "source_url": "https://www.ontreasure.com/events/nace-free-pokemon-and-sports-card-event-11142026",
       "verified_at": "2026-10-29",
-      "last_checked": "2026-11-05",
+      "last_checked": "2026-11-06",
       "event_status": "Scheduled",
       "description": "Free Pokemon and sports-card show by NACE (North American Card Exchange) at the Grand Victorian Convention Centre, Saturday-Sunday November 14-15. NACE's Eventbrite listing (https://www.eventbrite.ca/e/free-pokemon-and-sports-card-event-presented-by-nace-tickets-2004035147072, checked October 29, 2026) gives 11 am-6 pm both days with doors at 10:30 am, 175 Derry Road East, free admission and free parking. Singles, graded slabs and sealed product; vendors buying and trading. Table prices are not published; vendor tables are arranged through the organizer's social bio link.",
       "daily_hours": [
@@ -975,7 +975,7 @@
       "popularity_note": "",
       "popularity_source_url": "",
       "demand_history": [],
-      "last_checked": "2026-11-05"
+      "last_checked": "2026-11-06"
     },
     {
       "id": "mississauga-card-show-2026-11-15",
@@ -1042,7 +1042,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05",
+      "last_checked": "2026-11-06",
       "venue_pending": false
     },
     {
@@ -1068,10 +1068,10 @@
       "application_deadline": "",
       "vendor_url": "https://www.ontreasure.com/events/ohl-card-show-11152026",
       "source_url": "https://www.ontreasure.com/events/ohl-card-show-11152026",
-      "verified_at": "2026-10-27",
-      "last_checked": "2026-11-05",
+      "verified_at": "2026-11-06",
+      "last_checked": "2026-11-06",
       "event_status": "Scheduled",
-      "description": "Card Yard's OnTreasure listing confirms the OHL Card Show in Brampton on Sunday, November 15, 2026. The CAA Centre venue (home of the OHL Brampton Steelheads; the show runs alongside a game that day) comes from cardshowdirectory and PokéSats, which agree; the booking page itself could not be opened. Hours, admission and table prices are not confirmed.",
+      "description": "Card Yard's OnTreasure listing confirms the OHL Card Show in Brampton on Sunday, November 15, 2026. The CAA Centre venue (home of the OHL Brampton Steelheads; the show runs alongside a game that day) comes from cardshowdirectory and PokéSats, which agree. Hours, admission and table prices are not confirmed. Card Yard's OnTreasure event page, opened November 6, 2026, now names the CAA Centre directly; it still lists no hours, admission or table prices.",
       "daily_hours": [],
       "parking": "",
       "setup_time": "",
@@ -1134,7 +1134,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05",
+      "last_checked": "2026-11-06",
       "venue_pending": false
     },
     {
@@ -1170,7 +1170,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05"
+      "last_checked": "2026-11-06"
     },
     {
       "id": "ancaster-toy-collectibles-expo-2026-11-22",
@@ -1272,7 +1272,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05"
+      "last_checked": "2026-11-06"
     },
     {
       "id": "vaughan-con-2026-11-28",
@@ -1304,7 +1304,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05"
+      "last_checked": "2026-11-06"
     },
     {
       "id": "hobbyverse-markham-2026-11-29",
@@ -1339,7 +1339,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05"
+      "last_checked": "2026-11-06"
     },
     {
       "id": "northside-mississauga-2026-11-29",
@@ -1374,7 +1374,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05"
+      "last_checked": "2026-11-06"
     },
     {
       "id": "vaughan-toy-2026-11-29",
@@ -1406,7 +1406,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05"
+      "last_checked": "2026-11-06"
     },
     {
       "id": "holonight-toronto-2026-12-04",
@@ -1441,7 +1441,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05"
+      "last_checked": "2026-11-06"
     },
     {
       "id": "csc-anniversary-mississauga-2026-12-04",
@@ -1689,7 +1689,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05"
+      "last_checked": "2026-11-06"
     },
     {
       "id": "hobby-con-scarborough-2026-12-20",
@@ -1773,7 +1773,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05"
+      "last_checked": "2026-11-06"
     },
     {
       "id": "hobby-con-markham-2026-12-27",
@@ -1846,7 +1846,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05",
+      "last_checked": "2026-11-06",
       "venue_pending": false
     },
     {
@@ -2129,7 +2129,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05",
+      "last_checked": "2026-11-06",
       "venue_pending": false
     },
     {
@@ -2321,7 +2321,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05",
+      "last_checked": "2026-11-06",
       "venue_pending": false
     },
     {
@@ -2355,7 +2355,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05",
+      "last_checked": "2026-11-06",
       "venue_pending": false
     },
     {
@@ -2389,7 +2389,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05",
+      "last_checked": "2026-11-06",
       "venue_pending": false
     },
     {
@@ -2423,7 +2423,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05",
+      "last_checked": "2026-11-06",
       "venue_pending": false
     },
     {
@@ -2456,7 +2456,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05",
+      "last_checked": "2026-11-06",
       "venue_pending": false
     },
     {
@@ -2506,7 +2506,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05",
+      "last_checked": "2026-11-06",
       "id": "hobby-con-ajax-2026-11-21",
       "title": "HobbyCon · Durham",
       "organizer": "HobbyCon",
@@ -2540,7 +2540,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05",
+      "last_checked": "2026-11-06",
       "id": "hobby-con-markham-2026-11-29",
       "title": "HobbyCon · Markham",
       "organizer": "HobbyCon",
@@ -2638,7 +2638,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05"
+      "last_checked": "2026-11-06"
     },
     {
       "id": "uhc-mississauga-2026-12-19",
@@ -2647,32 +2647,32 @@
       "city": "Mississauga",
       "province": "Ontario",
       "venue": "Eden United Church",
-      "address": "3051 Battleford Road, Mississauga, ON",
+      "address": "3051 Battleford Road, Mississauga, ON L5N 5Z9",
       "venue_pending": false,
       "start_date": "2026-12-19",
       "end_date": "2026-12-19",
       "start_time": "11:00",
-      "end_time": "",
+      "end_time": "17:00",
       "timezone": "America/Toronto",
       "categories": [
         "Mixed"
       ],
-      "admission_cents": -1,
+      "admission_cents": 0,
       "table_fee_cents": -1,
       "table_status": "Unknown",
       "application_deadline": "",
       "vendor_url": "",
       "source_url": "https://www.eventbrite.ca/e/mississauga-cards-collectibles-show-holiday-edition-tickets-2004313647073",
-      "verified_at": "2026-11-04",
+      "verified_at": "2026-11-06",
       "event_status": "Scheduled",
-      "description": "Holiday edition of the Mississauga Cards & Collectibles Show. Eventbrite's listing (event 2004313647073), read from Eventbrite search on November 4, 2026, shows Saturday December 19, 11 am, at Eden United Church. The detail page could not be opened, so the closing time, admission and table prices are unknown. The organizer and street address come from United Hobby Collective's earlier shows in this series at the same venue.",
+      "description": "Holiday edition of the Mississauga Cards & Collectibles Show by United Hobby Collective. The organizer's Eventbrite page (event 2004313647073), opened November 6, 2026, confirms Saturday December 19, 11 am-5 pm, at Eden United Church, with free admission and free parking. Table prices are unknown.",
       "daily_hours": [],
-      "parking": "",
+      "parking": "Free parking",
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-05"
+      "last_checked": "2026-11-06"
     }
   ],
-  "catalogue_revision": "2026-11-05-2"
+  "catalogue_revision": "2026-11-06-1"
 }
