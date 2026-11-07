@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "catalogue_title": "GTA & Hamilton card shows",
-  "checked_at": "2026-11-06",
+  "checked_at": "2026-11-07",
   "events": [
     {
       "id": "hobby-con-ajax-2026-10-24",
@@ -922,7 +922,7 @@
       "schedule_poster_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1024,fit=crop/mjE7OXWJovtG6qa9/copy-of-copy-of-talking-vendor-application-6-iT1njszpujhOtj6T.jpg",
       "verified_at": "2026-10-20",
       "event_status": "Scheduled",
-      "description": "A free-entry Pokemon and collectibles show on HobbyCon's official 2026 schedule. Use the vendor application to request this date. Table prices, availability and booking opening date are not published. As of November 2, 2026, HobbyCon's Eventbrite lists November 29 at New Jaasmin but no November 15 Markham page, and Vaughan is on November 15, so check with the organizer before going.",
+      "description": "A free-entry Pokemon and collectibles show on HobbyCon's official 2026 schedule. Use the vendor application to request this date. Table prices, availability and booking opening date are not published. As of November 2, 2026, HobbyCon's Eventbrite lists November 29 at New Jaasmin but no November 15 Markham page, and Vaughan is on November 15, so check with the organizer before going. On November 7, 2026, HobbyCon's Eventbrite organizer page listed 12 upcoming shows, including Vaughan on November 15 and Markham on November 29, but still no Markham show on November 15.",
       "daily_hours": [],
       "parking": "",
       "setup_time": "",
@@ -934,7 +934,7 @@
       "popularity_note": "",
       "popularity_source_url": "",
       "demand_history": [],
-      "last_checked": "2026-11-02"
+      "last_checked": "2026-11-07"
     },
     {
       "id": "hobby-con-vaughan-2026-11-15",
@@ -1229,15 +1229,16 @@
       "table_status": "Unknown",
       "application_deadline": "",
       "vendor_url": "https://www.kijiji.ca/v-events/city-of-toronto/the-cangeek-collectors-market/1743636574",
-      "source_url": "https://www.kijiji.ca/v-events/city-of-toronto/the-cangeek-collectors-market/1743636574",
-      "verified_at": "2026-10-20",
+      "source_url": "https://www.eventbrite.ca/e/the-cangeek-collectors-market-tickets-2004470181271",
+      "verified_at": "2026-11-07",
       "event_status": "Scheduled",
-      "description": "A mixed collectors market with sports and trading cards, comics, games and toys. Free admission. Hours follow the organizer's written announcement: 11 am–4 pm.",
+      "description": "A mixed collectors market with sports and trading cards, comics, games and toys. The organizer's Eventbrite page (event 2004470181271), opened November 7, 2026, confirms Saturday November 28, 11 am-4 pm, at Burrows Hall Community Centre, 1081 Progress Ave, with free general admission. Pokémon is not named specifically; table prices are unpublished.",
       "daily_hours": [],
       "parking": "",
       "setup_time": "",
       "is_demo": false,
-      "archived": false
+      "archived": false,
+      "last_checked": "2026-11-07"
     },
     {
       "id": "hobbyverse-markham-2026-11-28",
@@ -2674,5 +2675,5 @@
       "last_checked": "2026-11-06"
     }
   ],
-  "catalogue_revision": "2026-11-06-2"
+  "catalogue_revision": "2026-11-07-1"
 }
