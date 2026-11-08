@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "catalogue_title": "GTA & Hamilton card shows",
-  "checked_at": "2026-11-07",
+  "checked_at": "2026-11-08",
   "events": [
     {
       "id": "hobby-con-ajax-2026-10-24",
@@ -1134,7 +1134,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-06",
+      "last_checked": "2026-11-08",
       "venue_pending": false
     },
     {
@@ -1755,9 +1755,9 @@
       "application_deadline": "",
       "vendor_url": "https://www.eventbrite.ca/e/greater-toronto-sports-card-show-2-day-holiday-expo-tickets-2000201699126",
       "source_url": "https://www.eventbrite.ca/e/greater-toronto-sports-card-show-2-day-holiday-expo-tickets-2000201699126",
-      "verified_at": "2026-10-20",
+      "verified_at": "2026-11-08",
       "event_status": "Scheduled",
-      "description": "Two-day sports card and memorabilia expo. Eventbrite confirms December 27–28 at Montecassino in North York. The listing spans Sunday 10 am through Monday 5 pm; confirm each day's opening hours before travel.",
+      "description": "Two-day sports card and memorabilia expo. Eventbrite confirms December 27–28 at Montecassino in North York. Re-checked November 8, 2026: the Eventbrite page now gives 10 am–5 pm each day, while gtcardshow.com's countdown shows 10 am–4 pm (and a garbled \"Dec 27 – Monday Dec 30\" range). Both agree on a 10 am opening, so Monday's opening is filled in; Sunday's closing time stays blank until the sources agree. Confirm hours before travel.",
       "daily_hours": [
         {
           "date": "2026-12-27",
@@ -1766,7 +1766,7 @@
         },
         {
           "date": "2026-12-28",
-          "start": "",
+          "start": "10:00",
           "end": "17:00"
         }
       ],
@@ -1774,7 +1774,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-06"
+      "last_checked": "2026-11-08"
     },
     {
       "id": "hobby-con-markham-2026-12-27",
@@ -2675,5 +2675,5 @@
       "last_checked": "2026-11-06"
     }
   ],
-  "catalogue_revision": "2026-11-07-2"
+  "catalogue_revision": "2026-11-08-1"
 }
