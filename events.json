@@ -2673,7 +2673,40 @@
       "is_demo": false,
       "archived": false,
       "last_checked": "2026-11-06"
+    },
+    {
+      "id": "collectors-clash-vaughan-2026-11-29",
+      "title": "Collectors Clash · Woodbridge · November 29",
+      "organizer": "Collectors Clash Card Show",
+      "city": "Vaughan",
+      "province": "Ontario",
+      "venue": "La Primavera Event Space",
+      "address": "77 Woodstream Boulevard, Woodbridge, ON",
+      "venue_pending": false,
+      "start_date": "2026-11-29",
+      "end_date": "2026-11-29",
+      "start_time": "10:30",
+      "end_time": "19:00",
+      "timezone": "America/Toronto",
+      "categories": [
+        "Mixed"
+      ],
+      "admission_cents": 0,
+      "table_fee_cents": -1,
+      "table_status": "Unknown",
+      "application_deadline": "",
+      "vendor_url": "",
+      "source_url": "https://www.ontreasure.com/events/collectors-clash-woodbridge-card-show-11292026",
+      "verified_at": "2026-11-09",
+      "event_status": "Scheduled",
+      "description": "Collectors Clash card show (\"Collectors Clash is back!\"). OnTreasure's organizer listing, opened November 9, 2026, confirms Sunday November 29, 10:30 am-7 pm, at La Primavera Event Space, Vaughan, with free admission (the listing text is truncated after \"FREE ADMI\"). The street address is from Collectors Clash's November 8 listing at the same venue. Table prices, parking and the card mix were not shown, so they stay unknown.",
+      "daily_hours": [],
+      "parking": "",
+      "setup_time": "",
+      "is_demo": false,
+      "archived": false,
+      "last_checked": "2026-11-09"
     }
   ],
-  "catalogue_revision": "2026-11-09-1"
+  "catalogue_revision": "2026-11-09-2"
 }
