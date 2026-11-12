@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "catalogue_title": "GTA & Hamilton card shows",
-  "checked_at": "2026-11-11",
+  "checked_at": "2026-11-12",
   "events": [
     {
       "id": "hobby-con-ajax-2026-10-24",
@@ -2706,7 +2706,41 @@
       "is_demo": false,
       "archived": false,
       "last_checked": "2026-11-09"
+    },
+    {
+      "id": "pop-culture-canada-brampton-comicon-2027-01-16",
+      "title": "Brampton ComiCon",
+      "organizer": "Pop Culture Canada",
+      "city": "Brampton",
+      "province": "Ontario",
+      "venue": "Bramalea Lions Hall",
+      "address": "45 Avondale Boulevard, Brampton, ON L6T 1H1",
+      "start_date": "2027-01-16",
+      "end_date": "2027-01-16",
+      "start_time": "10:00",
+      "end_time": "15:00",
+      "timezone": "America/Toronto",
+      "categories": [
+        "Sports",
+        "Mixed"
+      ],
+      "admission_cents": 500,
+      "table_fee_cents": -1,
+      "table_status": "Unknown",
+      "application_deadline": "",
+      "vendor_url": "https://www.eventbrite.ca/e/brampton-comicon-january-16th-2027-comic-con-tickets-2004734008385",
+      "source_url": "https://www.eventbrite.ca/e/brampton-comicon-january-16th-2027-comic-con-tickets-2004734008385",
+      "verified_at": "2026-11-12",
+      "event_status": "Scheduled",
+      "description": "Mixed comic con in Brampton; organizer's Eventbrite lists vendors selling comic books, toys, video games and sports cards (not every item guaranteed). Admission C$5 online, C$10 at the door, kids 12 and under free with paid admission, C$30 VIP; vendor table fees and parking not published. The description body says \"January 16th 2026\" while the title and date header say 2027.",
+      "daily_hours": [],
+      "parking": "",
+      "setup_time": "",
+      "is_demo": false,
+      "archived": false,
+      "last_checked": "2026-11-12",
+      "venue_pending": false
     }
   ],
-  "catalogue_revision": "2026-11-11-2"
+  "catalogue_revision": "2026-11-12-1"
 }
