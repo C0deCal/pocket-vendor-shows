@@ -2529,6 +2529,41 @@
       "description": "A free Pokemon and TCG show to trade, buy and sell cards. HobbyCon's own Eventbrite listing (event 2004197469583, opened November 2, 2026) confirms Saturday November 21, 2026, 10 am-3 pm, at the Durham Convention Centre, 630 Beck Crescent, Ajax. Parking and table prices are not stated."
     },
     {
+      "id": "hobby-con-etobicoke-2026-11-21",
+      "title": "HobbyCon · Etobicoke",
+      "organizer": "HobbyCon",
+      "city": "Toronto",
+      "province": "Ontario",
+      "venue": "Tridence Banquet & Conference Centre",
+      "address": "145 Evans Ave. #200, Toronto, ON M8Z 5X8",
+      "venue_pending": false,
+      "start_date": "2026-11-21",
+      "end_date": "2026-11-21",
+      "start_time": "10:00",
+      "end_time": "16:00",
+      "timezone": "America/Toronto",
+      "categories": [
+        "Pokemon",
+        "One Piece",
+        "Mixed"
+      ],
+      "admission_cents": 0,
+      "table_fee_cents": -1,
+      "table_status": "Unknown",
+      "application_deadline": "",
+      "vendor_url": "https://hobbyconevents.com/vendor-application",
+      "source_url": "https://www.eventbrite.ca/e/free-pokemon-tcg-show-hobby-con-etobicoke-debut-november-21-tickets-2004933210203",
+      "verified_at": "2026-11-17",
+      "event_status": "Scheduled",
+      "description": "HobbyCon's first Etobicoke show: buy, sell and trade Pokémon, One Piece and other TCG cards and collectibles. HobbyCon's own Eventbrite page (event 2004933210203), opened November 17, 2026, confirms Saturday November 21, 2026, 10 am-4 pm, at Tridence Banquet & Conference Centre, 145 Evans Ave. #200, Etobicoke, with free registration. Parking and table prices are not stated on the page (directories say free parking; not confirmed by the organizer).",
+      "daily_hours": [],
+      "parking": "",
+      "setup_time": "",
+      "is_demo": false,
+      "archived": false,
+      "last_checked": "2026-11-17"
+    },
+    {
       "province": "Ontario",
       "venue_pending": false,
       "timezone": "America/Toronto",
@@ -2880,5 +2915,5 @@
       "venue_pending": false
     }
   ],
-  "catalogue_revision": "2026-11-17-1"
+  "catalogue_revision": "2026-11-17-2"
 }
