@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "catalogue_title": "GTA & Hamilton card shows",
-  "checked_at": "2026-11-17",
+  "checked_at": "2026-11-18",
   "events": [
     {
       "id": "hobby-con-ajax-2026-10-24",
@@ -1238,7 +1238,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-07"
+      "last_checked": "2026-11-18"
     },
     {
       "id": "hobbyverse-markham-2026-11-28",
@@ -1273,7 +1273,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-06"
+      "last_checked": "2026-11-18"
     },
     {
       "id": "vaughan-con-2026-11-28",
@@ -1305,7 +1305,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-06"
+      "last_checked": "2026-11-18"
     },
     {
       "id": "hobbyverse-markham-2026-11-29",
@@ -1340,7 +1340,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-06"
+      "last_checked": "2026-11-18"
     },
     {
       "id": "northside-mississauga-2026-11-29",
@@ -1690,7 +1690,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-06"
+      "last_checked": "2026-11-18"
     },
     {
       "id": "hobby-con-scarborough-2026-12-20",
@@ -2130,7 +2130,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-06",
+      "last_checked": "2026-11-18",
       "venue_pending": false
     },
     {
@@ -2254,7 +2254,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-04",
+      "last_checked": "2026-11-18",
       "venue_pending": false
     },
     {
@@ -2356,7 +2356,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-06",
+      "last_checked": "2026-11-18",
       "venue_pending": false
     },
     {
@@ -2390,7 +2390,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-06",
+      "last_checked": "2026-11-18",
       "venue_pending": false
     },
     {
@@ -2424,7 +2424,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-06",
+      "last_checked": "2026-11-18",
       "venue_pending": false
     },
     {
@@ -2507,7 +2507,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-06",
+      "last_checked": "2026-11-18",
       "id": "hobby-con-ajax-2026-11-21",
       "title": "HobbyCon · Durham",
       "organizer": "HobbyCon",
@@ -2561,7 +2561,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-17"
+      "last_checked": "2026-11-18"
     },
     {
       "province": "Ontario",
@@ -2576,7 +2576,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-17",
+      "last_checked": "2026-11-18",
       "id": "hobby-con-markham-2026-11-29",
       "title": "HobbyCon · Markham",
       "organizer": "HobbyCon",
@@ -2621,7 +2621,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-17",
+      "last_checked": "2026-11-18",
       "id": "nace-mississauga-2026-12-19",
       "title": "NACE · Grand Victorian Card Show · December",
       "organizer": "North American Card Exchange",
@@ -2674,7 +2674,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-06"
+      "last_checked": "2026-11-18"
     },
     {
       "id": "uhc-mississauga-2026-12-19",
@@ -2707,7 +2707,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-06"
+      "last_checked": "2026-11-18"
     },
     {
       "id": "collectors-clash-vaughan-2026-11-29",
@@ -2773,7 +2773,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-12",
+      "last_checked": "2026-11-18",
       "venue_pending": false
     },
     {
@@ -2878,7 +2878,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-17",
+      "last_checked": "2026-11-18",
       "venue_pending": false
     },
     {
@@ -2915,5 +2915,5 @@
       "venue_pending": false
     }
   ],
-  "catalogue_revision": "2026-11-17-2"
+  "catalogue_revision": "2026-11-18-1"
 }
