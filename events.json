@@ -1134,7 +1134,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-08",
+      "last_checked": "2026-11-19",
       "venue_pending": false
     },
     {
@@ -1238,7 +1238,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-18"
+      "last_checked": "2026-11-19"
     },
     {
       "id": "hobbyverse-markham-2026-11-28",
@@ -1375,7 +1375,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-14"
+      "last_checked": "2026-11-19"
     },
     {
       "id": "vaughan-toy-2026-11-29",
@@ -1407,7 +1407,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-17"
+      "last_checked": "2026-11-19"
     },
     {
       "id": "holonight-toronto-2026-12-04",
@@ -2507,7 +2507,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-18",
+      "last_checked": "2026-11-19",
       "id": "hobby-con-ajax-2026-11-21",
       "title": "HobbyCon · Durham",
       "organizer": "HobbyCon",
@@ -2809,7 +2809,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-14",
+      "last_checked": "2026-11-19",
       "venue_pending": false
     },
     {
@@ -2915,5 +2915,5 @@
       "venue_pending": false
     }
   ],
-  "catalogue_revision": "2026-11-19-1"
+  "catalogue_revision": "2026-11-19-2"
 }
