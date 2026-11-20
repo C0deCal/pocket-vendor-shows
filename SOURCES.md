@@ -1,6 +1,6 @@
 # Event sources
 
-Catalogue checked **November 19, 2026** (run 2). **78 upcoming entries** across the Greater Toronto and Hamilton Area, including HobbyCon dates read from official posters and entries reviewed through OnTreasure, Eventbrite and organizer websites. The December 17 Markham night market has an announced date and city but no venue yet; the October 29 and November 5 ones are confirmed at New Jaasmin. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
+Catalogue checked **November 20, 2026**. **78 upcoming entries** across the Greater Toronto and Hamilton Area, including HobbyCon dates read from official posters and entries reviewed through OnTreasure, Eventbrite and organizer websites. The December 17 Markham night market has an announced date and city but no venue yet; the October 29 and November 5 ones are confirmed at New Jaasmin. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
 
 ## Area
 
