@@ -1510,7 +1510,8 @@
       "parking": "",
       "setup_time": "",
       "is_demo": false,
-      "archived": false
+      "archived": false,
+      "last_checked": "2026-11-20"
     },
     {
       "id": "ancaster-nostalgia-vintage-toy-show-2026-12-06",
@@ -2457,7 +2458,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-06",
+      "last_checked": "2026-11-20",
       "venue_pending": false
     },
     {
@@ -2911,9 +2912,9 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-17",
+      "last_checked": "2026-11-20",
       "venue_pending": false
     }
   ],
-  "catalogue_revision": "2026-11-20-1"
+  "catalogue_revision": "2026-11-20-2"
 }
