@@ -2255,7 +2255,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-19",
+      "last_checked": "2026-11-20",
       "venue_pending": false
     },
     {
@@ -2844,7 +2844,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-14",
+      "last_checked": "2026-11-20",
       "venue_pending": false
     },
     {
@@ -2914,7 +2914,41 @@
       "archived": false,
       "last_checked": "2026-11-20",
       "venue_pending": false
+    },
+    {
+      "id": "pop-culture-canada-streetsville-comicon-2027-02-27",
+      "title": "Streetsville ComiCon",
+      "organizer": "Pop Culture Canada",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "venue": "Vic Johnston Community Centre",
+      "address": "335 Church Street, Mississauga, ON L5M 1N1",
+      "start_date": "2027-02-27",
+      "end_date": "2027-02-27",
+      "start_time": "10:00",
+      "end_time": "15:00",
+      "timezone": "America/Toronto",
+      "categories": [
+        "Sports",
+        "Mixed"
+      ],
+      "admission_cents": 500,
+      "table_fee_cents": -1,
+      "table_status": "Unknown",
+      "application_deadline": "",
+      "vendor_url": "https://www.eventbrite.ca/e/streetsville-comicon-february-27th-2027-comic-con-tickets-2005049114877",
+      "source_url": "https://www.eventbrite.ca/e/streetsville-comicon-february-27th-2027-comic-con-tickets-2005049114877",
+      "verified_at": "2026-11-20",
+      "event_status": "Scheduled",
+      "description": "Mixed comic con in Streetsville; organizer's Eventbrite lists vendors selling comic books, toys, video games and sports cards (not every item guaranteed; Pokémon/trading cards not mentioned). Admission C$5 online, C$10 at the door, kids 12 and under free with paid admission, C$30 VIP; vendor table fees not published.",
+      "daily_hours": [],
+      "parking": "",
+      "setup_time": "",
+      "is_demo": false,
+      "archived": false,
+      "last_checked": "2026-11-20",
+      "venue_pending": false
     }
   ],
-  "catalogue_revision": "2026-11-20-2"
+  "catalogue_revision": "2026-11-20-3"
 }
