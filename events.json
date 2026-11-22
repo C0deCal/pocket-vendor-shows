@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "catalogue_title": "GTA & Hamilton card shows",
-  "checked_at": "2026-11-21",
+  "checked_at": "2026-11-22",
   "events": [
     {
       "id": "hobby-con-ajax-2026-10-24",
@@ -1238,7 +1238,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-20"
+      "last_checked": "2026-11-22"
     },
     {
       "id": "hobbyverse-markham-2026-11-28",
@@ -1273,7 +1273,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-22"
     },
     {
       "id": "vaughan-con-2026-11-28",
@@ -1305,7 +1305,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-22"
     },
     {
       "id": "hobbyverse-markham-2026-11-29",
@@ -1340,7 +1340,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-22"
     },
     {
       "id": "northside-mississauga-2026-11-29",
@@ -1375,7 +1375,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-22"
     },
     {
       "id": "vaughan-toy-2026-11-29",
@@ -1442,7 +1442,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-22"
     },
     {
       "id": "csc-anniversary-mississauga-2026-12-04",
@@ -1691,7 +1691,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-22"
     },
     {
       "id": "hobby-con-scarborough-2026-12-20",
@@ -1775,7 +1775,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-21"
+      "last_checked": "2026-11-22"
     },
     {
       "id": "hobby-con-markham-2026-12-27",
@@ -1848,7 +1848,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-22",
       "venue_pending": false
     },
     {
@@ -2131,7 +2131,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-22",
       "venue_pending": false
     },
     {
@@ -2357,7 +2357,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-22",
       "venue_pending": false
     },
     {
@@ -2391,7 +2391,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-22",
       "venue_pending": false
     },
     {
@@ -2425,7 +2425,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-22",
       "venue_pending": false
     },
     {
@@ -2577,7 +2577,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-21",
+      "last_checked": "2026-11-22",
       "id": "hobby-con-markham-2026-11-29",
       "title": "HobbyCon · Markham",
       "organizer": "HobbyCon",
@@ -2622,7 +2622,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-21",
+      "last_checked": "2026-11-22",
       "id": "nace-mississauga-2026-12-19",
       "title": "NACE · Grand Victorian Card Show · December",
       "organizer": "North American Card Exchange",
@@ -2675,7 +2675,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-20"
+      "last_checked": "2026-11-22"
     },
     {
       "id": "uhc-mississauga-2026-12-19",
@@ -2708,7 +2708,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-20"
+      "last_checked": "2026-11-22"
     },
     {
       "id": "collectors-clash-vaughan-2026-11-29",
@@ -2810,7 +2810,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-19",
+      "last_checked": "2026-11-22",
       "venue_pending": false
     },
     {
@@ -2844,7 +2844,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-22",
       "venue_pending": false
     },
     {
@@ -2879,7 +2879,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-21",
+      "last_checked": "2026-11-22",
       "venue_pending": false
     },
     {
@@ -2950,5 +2950,5 @@
       "venue_pending": false
     }
   ],
-  "catalogue_revision": "2026-11-21-2"
+  "catalogue_revision": "2026-11-22-1"
 }

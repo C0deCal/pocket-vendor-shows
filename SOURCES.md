@@ -1,6 +1,6 @@
 # Event sources
 
-Catalogue checked **November 21, 2026**. **79 upcoming entries** across the Greater Toronto and Hamilton Area, including HobbyCon dates read from official posters and entries reviewed through OnTreasure, Eventbrite and organizer websites. The December 17 Markham night market has an announced date and city but no venue yet; the October 29 and November 5 ones are confirmed at New Jaasmin. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
+Catalogue checked **November 22, 2026**. **79 upcoming entries** across the Greater Toronto and Hamilton Area, including HobbyCon dates read from official posters and entries reviewed through OnTreasure, Eventbrite and organizer websites. The December 17 Markham night market has an announced date and city but no venue yet; the October 29 and November 5 ones are confirmed at New Jaasmin. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
 
 ## Area
 
@@ -227,6 +227,8 @@ These are accessible under **More local organizers** and are not calendar entrie
 - Etobicoke Collectors Con 2027, Delta Hotels Toronto Airport & Conference Centre, Toronto: Eventbrite search lists Monday February 15, 2027, 10 am ([event 2005209533694](https://www.eventbrite.ca/e/etobicoke-collectors-con-2027-tickets-2005209533694)); detail page not opened and cards not confirmed (checked November 21, 2026, run 2).
 
 - Pokémon Christmas Market by luluclub, 584 Yonge St, Toronto: Eventbrite search lists Saturday December 5, 2026, 12 pm ([event 2003112725083](https://www.eventbrite.com/e/pokemon-christmas-market-by-luluclub-tickets-2003112725083)); detail page not opened, so whether card vendors attend is unknown (checked November 21, 2026).
+
+- Run check November 22, 2026: Eventbrite search pages (Caledon/Peel, York, Brampton, Halton, Markham, Whitby, Durham, Toronto) re-showed 20 listed shows with unchanged dates and venues; no new organizer-confirmed GTHA shows. Seen but not added: Pokemon Proxy Party at CSC (Mississauga, December 4; a play event, not a vendor show) and the Collectex Burlington card show (Tourism Burlington page, no date). hobbyconevents.com, OnTreasure, cardfesta.com, northsidetcg.com, truenorthcardexpo.ca and csceventhq.com could not be opened.
 
 ## Updating
 
