@@ -1,6 +1,6 @@
 # Event sources
 
-Catalogue checked **November 22, 2026**. **79 upcoming entries** across the Greater Toronto and Hamilton Area, including HobbyCon dates read from official posters and entries reviewed through OnTreasure, Eventbrite and organizer websites. The December 17 Markham night market has an announced date and city but no venue yet; the October 29 and November 5 ones are confirmed at New Jaasmin. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
+Catalogue checked **November 22, 2026**. **80 upcoming entries** across the Greater Toronto and Hamilton Area, including HobbyCon dates read from official posters and entries reviewed through OnTreasure, Eventbrite and organizer websites. The December 17 Markham night market has an announced date and city but no venue yet; the October 29 and November 5 ones are confirmed at New Jaasmin. HobbyVerse has separate Saturday/Sunday table bookings. This is a reviewed snapshot, not an exhaustive live service.
 
 ## Area
 
@@ -73,6 +73,7 @@ Brampton is inside the area again since October 24, 2026, so the older Brampton 
 | NACE · Grand Victorian Card Show · December | Mississauga | 2026-12-19 – 2026-12-20 | [Organizer listing](https://www.eventbrite.ca/e/free-pokemon-and-sports-card-event-presented-by-nace-tickets-2004035535233) |
 | HobbyCon · Scarborough | Scarborough | 2026-12-20 | [Organizer listing](https://hobbyconevents.com/events-schedule) |
 | Greater Toronto · Holiday Expo | North York | 2026-12-27 – 2026-12-28 | [Organizer listing](https://www.eventbrite.ca/e/greater-toronto-sports-card-show-2-day-holiday-expo-tickets-2000201699126) |
+| Card Yard · Dixie Outlet Mall | Mississauga | 2026-12-19 – 2026-12-20 | [Organizer listing](https://www.ontreasure.com/events/card-yard-at-dixie-outlet-mall-12192026) |
 | HobbyCon · Markham | Markham | 2026-12-27 | [Organizer listing](https://hobbyconevents.com/events-schedule) |
 | Oshawa ComiCon | Oshawa | 2026-12-27 | [Organizer listing](https://www.eventbrite.ca/e/oshawa-comicon-december-27th-2026-comicon-tickets-1980585666043) |
 | Aurora ComiCon | Aurora | 2027-01-03 | [Organizer listing](https://www.eventbrite.ca/e/aurora-comicon-january-3rd-2027-comic-con-tickets-2003512240043) |
@@ -181,7 +182,7 @@ These are accessible under **More local organizers** and are not calendar entrie
 
 - Collectex 2026 (Burlington): Tourism Burlington lists a one-day Pokémon, sports and TCG card show with 50+ vendors but no date or venue (checked October 27, 2026). OnTreasure has a COLLECTEX: Burlington listing dated September 19, 2026 (already past), which is probably the same show.
 
-- Card Yard at Dixie Outlet Mall (Mississauga): PokéSats lists December 19–20, 2026 (Sat 10 am-9 pm, Sun 10 am-6 pm, free, 1250 S Service Rd) and links an OnTreasure page (card-yard-at-dixie-outlet-mall-12192026) that could not be opened on November 17, 2026; add once the organizer page is read.
+- Card Yard at Dixie Outlet Mall (Mississauga): PokéSats lists December 19–20, 2026 (Sat 10 am-9 pm, Sun 10 am-6 pm, free, 1250 S Service Rd) and links an OnTreasure page (card-yard-at-dixie-outlet-mall-12192026) that could not be opened on November 17, 2026; add once the organizer page is read. Added to the calendar on November 22, 2026 (run 2): the OnTreasure page, opened that day, confirms the title, December 19–20, 2026 and Dixie Outlet Mall, Mississauga; hours, address, admission and table prices did not render, so they are left blank/unknown.
 
 - MCS Sports TCG Cards (Mississauga): OnTreasure lists Saturday December 19, 2026 with no organizer, venue or hours in the page text (checked November 17, 2026); not a calendar entry until a venue is known.
 
@@ -229,6 +230,8 @@ These are accessible under **More local organizers** and are not calendar entrie
 - Pokémon Christmas Market by luluclub, 584 Yonge St, Toronto: Eventbrite search lists Saturday December 5, 2026, 12 pm ([event 2003112725083](https://www.eventbrite.com/e/pokemon-christmas-market-by-luluclub-tickets-2003112725083)); detail page not opened, so whether card vendors attend is unknown (checked November 21, 2026).
 
 - Run check November 22, 2026: Eventbrite search pages (Caledon/Peel, York, Brampton, Halton, Markham, Whitby, Durham, Toronto) re-showed 20 listed shows with unchanged dates and venues; no new organizer-confirmed GTHA shows. Seen but not added: Pokemon Proxy Party at CSC (Mississauga, December 4; a play event, not a vendor show) and the Collectex Burlington card show (Tourism Burlington page, no date). hobbyconevents.com, OnTreasure, cardfesta.com, northsidetcg.com, truenorthcardexpo.ca and csceventhq.com could not be opened.
+
+- Run check November 22, 2026 (run 2): Added Card Yard at Dixie Outlet Mall (Mississauga, December 19–20) from its OnTreasure page. OnTreasure Ontario and Eventbrite search pages (York card show, Caledon card show, Brampton, Whitby and Halton Pokémon) re-showed listed shows with unchanged dates and venues. Still not added: MCS Sports TCG Cards (Mississauga, December 19; OnTreasure page shows no venue), Durham Card Show (Ajax Convention Centre; sportscardsnearme lists December 13, 2026 and January 24, March 7 and May 30, 2027; no organizer page), Northern Grails Holiday Card Bash (December 11), Vaughan Sports Card Classic (December 19), NCX at Frameworth (December 13), CollectiCon Hamilton (December 26), HobbyCon Etobicoke (December 26) and HobbyCon TCG Expo Mississauga (January 15–17, 2027), all directory-only. sportscardsnearme places Northside TCG Mississauga (November 29) at Hilton Meadowvale, but the organizer's Eventbrite listing still says Hyatt Place, so it is unchanged. hobbyconevents.com and tcdb.com could not be opened.
 
 ## Updating
 

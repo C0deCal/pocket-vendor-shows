@@ -1511,7 +1511,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-20"
+      "last_checked": "2026-11-22"
     },
     {
       "id": "ancaster-nostalgia-vintage-toy-show-2026-12-06",
@@ -1692,6 +1692,39 @@
       "is_demo": false,
       "archived": false,
       "last_checked": "2026-11-22"
+    },
+    {
+      "id": "card-yard-mississauga-dixie-2026-12-19",
+      "title": "Card Yard · Dixie Outlet Mall",
+      "organizer": "Card Yard",
+      "city": "Mississauga",
+      "province": "Ontario",
+      "venue": "Dixie Outlet Mall",
+      "address": "",
+      "start_date": "2026-12-19",
+      "end_date": "2026-12-20",
+      "start_time": "",
+      "end_time": "",
+      "timezone": "America/Toronto",
+      "categories": [
+        "Mixed"
+      ],
+      "admission_cents": -1,
+      "table_fee_cents": -1,
+      "table_status": "Unknown",
+      "application_deadline": "",
+      "vendor_url": "",
+      "source_url": "https://www.ontreasure.com/events/card-yard-at-dixie-outlet-mall-12192026",
+      "verified_at": "2026-11-22",
+      "event_status": "Scheduled",
+      "description": "Card Yard's OnTreasure page lists \"Card Yard at Dixie Outlet Mall\", Saturday–Sunday December 19–20, 2026, at Dixie Outlet Mall, Mississauga (\"Card Yard Collectibles Show Coming to Dixie Outlet Mall!\"). Hours, admission and table prices were not readable from the page; check it before going.",
+      "daily_hours": [],
+      "parking": "",
+      "setup_time": "",
+      "is_demo": false,
+      "archived": false,
+      "last_checked": "2026-11-22",
+      "venue_pending": false
     },
     {
       "id": "hobby-con-scarborough-2026-12-20",
@@ -2458,7 +2491,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-22",
       "venue_pending": false
     },
     {
@@ -2912,7 +2945,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-22",
       "venue_pending": false
     },
     {
@@ -2950,5 +2983,5 @@
       "venue_pending": false
     }
   ],
-  "catalogue_revision": "2026-11-22-1"
+  "catalogue_revision": "2026-11-22-2"
 }
