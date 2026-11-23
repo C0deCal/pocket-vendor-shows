@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "catalogue_title": "GTA & Hamilton card shows",
-  "checked_at": "2026-11-22",
+  "checked_at": "2026-11-23",
   "events": [
     {
       "id": "hobby-con-ajax-2026-10-24",
@@ -1238,7 +1238,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-23"
     },
     {
       "id": "hobbyverse-markham-2026-11-28",
@@ -1273,7 +1273,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-23"
     },
     {
       "id": "vaughan-con-2026-11-28",
@@ -1305,7 +1305,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-23"
     },
     {
       "id": "hobbyverse-markham-2026-11-29",
@@ -1340,7 +1340,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-23"
     },
     {
       "id": "northside-mississauga-2026-11-29",
@@ -1375,7 +1375,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-23"
     },
     {
       "id": "vaughan-toy-2026-11-29",
@@ -1407,7 +1407,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-20"
+      "last_checked": "2026-11-23"
     },
     {
       "id": "holonight-toronto-2026-12-04",
@@ -1442,7 +1442,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-23"
     },
     {
       "id": "csc-anniversary-mississauga-2026-12-04",
@@ -1468,7 +1468,7 @@
       "vendor_url": "https://csceventhq.com/vendor-application/",
       "source_url": "https://www.eventbrite.ca/e/join-us-at-the-tcg-sports-collectibles-csc-anniversary-show-tickets-2004662850550",
       "verified_at": "2026-11-18",
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-23",
       "event_status": "Scheduled",
       "daily_hours": [],
       "parking": "Free parking",
@@ -1691,7 +1691,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-23"
     },
     {
       "id": "card-yard-mississauga-dixie-2026-12-19",
@@ -1808,7 +1808,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-22"
+      "last_checked": "2026-11-23"
     },
     {
       "id": "hobby-con-markham-2026-12-27",
@@ -1881,7 +1881,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "venue_pending": false
     },
     {
@@ -2164,7 +2164,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "venue_pending": false
     },
     {
@@ -2390,7 +2390,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "venue_pending": false
     },
     {
@@ -2424,7 +2424,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "venue_pending": false
     },
     {
@@ -2458,7 +2458,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "venue_pending": false
     },
     {
@@ -2610,7 +2610,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "id": "hobby-con-markham-2026-11-29",
       "title": "HobbyCon · Markham",
       "organizer": "HobbyCon",
@@ -2655,7 +2655,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "id": "nace-mississauga-2026-12-19",
       "title": "NACE · Grand Victorian Card Show · December",
       "organizer": "North American Card Exchange",
@@ -2807,7 +2807,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-20",
+      "last_checked": "2026-11-23",
       "venue_pending": false
     },
     {
@@ -2843,7 +2843,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "venue_pending": false
     },
     {
@@ -2912,7 +2912,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-22",
+      "last_checked": "2026-11-23",
       "venue_pending": false
     },
     {
@@ -2983,5 +2983,5 @@
       "venue_pending": false
     }
   ],
-  "catalogue_revision": "2026-11-22-2"
+  "catalogue_revision": "2026-11-23-1"
 }
