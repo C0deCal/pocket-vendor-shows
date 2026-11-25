@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "catalogue_title": "GTA & Hamilton card shows",
-  "checked_at": "2026-11-24",
+  "checked_at": "2026-11-25",
   "events": [
     {
       "id": "hobby-con-ajax-2026-10-24",
@@ -2983,5 +2983,5 @@
       "venue_pending": false
     }
   ],
-  "catalogue_revision": "2026-11-24-2"
+  "catalogue_revision": "2026-11-25-1"
 }
