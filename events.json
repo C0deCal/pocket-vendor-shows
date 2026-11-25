@@ -1238,7 +1238,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-23"
+      "last_checked": "2026-11-24"
     },
     {
       "id": "hobbyverse-markham-2026-11-28",
@@ -1340,7 +1340,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-23"
+      "last_checked": "2026-11-24"
     },
     {
       "id": "northside-mississauga-2026-11-29",
@@ -2078,7 +2078,7 @@
       "vendor_url": "https://csceventhq.com/vendor-application/",
       "source_url": "https://csceventhq.com/",
       "verified_at": "2026-10-27",
-      "last_checked": "2026-10-27",
+      "last_checked": "2026-11-24",
       "event_status": "Scheduled",
       "daily_hours": [],
       "parking": "",
@@ -2925,7 +2925,7 @@
       "venue": "WePlay Centre",
       "start_date": "2026-12-12",
       "end_date": "2026-12-12",
-      "start_time": "",
+      "start_time": "11:00",
       "end_time": "",
       "timezone": "America/Toronto",
       "categories": [
@@ -2939,7 +2939,7 @@
       "source_url": "https://www.ontreasure.com/events/hobbyverseexpo-xmas-edition-12122026",
       "verified_at": "2026-11-17",
       "event_status": "Scheduled",
-      "description": "HobbyVerse Expo's Christmas buy/sell/trade day. The organizer's OnTreasure listing (seen November 17, 2026) confirms Saturday December 12, 2026 at WePlay, Markham (\"We're back at WePlay\"). Its hours, admission and table prices could not be read; earlier HobbyVerse shows at WePlay Centre (100 Clegg Road) opened at 11 am. Check the organizer before going.",
+      "description": "HobbyVerse Expo's Christmas buy/sell/trade day. The organizer's OnTreasure listing (seen November 17, 2026) confirms Saturday December 12, 2026 at WePlay, Markham (\"We're back at WePlay\"). HobbyVerse's own Eventbrite listing \"HobbyVerse Expo Xmas Edition\" (event 2005212748309, seen in Eventbrite's Markham search November 24, 2026) gives an 11 am start at Weplay Centre; the event page could not be opened, so closing time, admission and table prices are unknown. Earlier HobbyVerse shows at WePlay Centre were at 100 Clegg Road. Check the organizer before going.",
       "daily_hours": [],
       "parking": "",
       "setup_time": "",
@@ -2983,5 +2983,5 @@
       "venue_pending": false
     }
   ],
-  "catalogue_revision": "2026-11-24-1"
+  "catalogue_revision": "2026-11-24-2"
 }
