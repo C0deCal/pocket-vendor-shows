@@ -1574,7 +1574,7 @@
       "schedule_poster_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1024,h=1024,fit=crop/mjE7OXWJovtG6qa9/copy-of-copy-of-talking-vendor-application-6-iT1njszpujhOtj6T.jpg",
       "verified_at": "2026-10-20",
       "event_status": "Scheduled",
-      "description": "A free-entry Pokemon and collectibles show on HobbyCon's official 2026 schedule. Use the vendor application to request this date. Table prices, availability and booking opening date are not published.",
+      "description": "A free-entry Pokemon and collectibles show on HobbyCon's official 2026 schedule. Use the vendor application to request this date. Table prices, availability and booking opening date are not published. HobbyCon's OnTreasure listing \"HOBBY CON MISSISSAUGA DECEMBER 12\" re-confirms the date at Eros Convention Centre (checked November 25, 2026).",
       "daily_hours": [],
       "parking": "",
       "setup_time": "",
@@ -1585,7 +1585,8 @@
       "popularity": "Unknown",
       "popularity_note": "",
       "popularity_source_url": "",
-      "demand_history": []
+      "demand_history": [],
+      "last_checked": "2026-11-25"
     },
     {
       "id": "ancaster-toy-collectibles-expo-2026-12-13",
@@ -2981,7 +2982,75 @@
       "archived": false,
       "last_checked": "2026-11-20",
       "venue_pending": false
+    },
+    {
+      "province": "Ontario",
+      "timezone": "America/Toronto",
+      "table_fee_cents": -1,
+      "table_status": "Unknown",
+      "application_deadline": "",
+      "event_status": "Scheduled",
+      "daily_hours": [],
+      "parking": "",
+      "setup_time": "",
+      "is_demo": false,
+      "archived": false,
+      "id": "hobby-con-night-market-vaughan-2026-12-08",
+      "title": "HobbyCon · Night Market · Vaughan",
+      "organizer": "HobbyCon",
+      "city": "Vaughan",
+      "venue": "Venue TBA",
+      "address": "",
+      "venue_pending": true,
+      "start_date": "2026-12-08",
+      "end_date": "2026-12-08",
+      "start_time": "",
+      "end_time": "",
+      "categories": [
+        "Pokemon",
+        "Mixed"
+      ],
+      "admission_cents": -1,
+      "vendor_url": "https://hobbyconevents.com/vendor-application",
+      "source_url": "https://www.ontreasure.com/events/hobby-con-vaughan-night-market-december-8-12082026",
+      "verified_at": "2026-11-25",
+      "last_checked": "2026-11-25",
+      "description": "A Tuesday-evening trading-card night market. HobbyCon's OnTreasure listing \"HOBBY CON VAUGHAN NIGHT MARKET DECEMBER 8\" (opened November 25, 2026) confirms Tuesday December 8, 2026 in Vaughan. The venue, hours, admission and table prices were not readable on the page; HobbyCon's November 3 Vaughan night market was at Venu Event Space, 4-9 pm, but that is not confirmed for this date, so check with the organizer."
+    },
+    {
+      "province": "Ontario",
+      "timezone": "America/Toronto",
+      "table_fee_cents": -1,
+      "table_status": "Unknown",
+      "application_deadline": "",
+      "event_status": "Scheduled",
+      "daily_hours": [],
+      "parking": "",
+      "setup_time": "",
+      "is_demo": false,
+      "archived": false,
+      "id": "downtown-newmarket-tcg-toy-show-2026-12-12",
+      "title": "Downtown Newmarket TCG & Toy Show · Christmas",
+      "organizer": "Downtown Newmarket TCG and Toy Show",
+      "city": "Newmarket",
+      "venue": "Venue TBA",
+      "address": "",
+      "venue_pending": true,
+      "start_date": "2026-12-12",
+      "end_date": "2026-12-12",
+      "start_time": "",
+      "end_time": "",
+      "categories": [
+        "Pokemon",
+        "Mixed"
+      ],
+      "admission_cents": -1,
+      "vendor_url": "https://www.ontreasure.com/events/downtown-newmarket-tcg-and-toy-show-12122026",
+      "source_url": "https://www.ontreasure.com/events/downtown-newmarket-tcg-and-toy-show-12122026",
+      "verified_at": "2026-11-25",
+      "last_checked": "2026-11-25",
+      "description": "Christmas edition of the Downtown Newmarket TCG & Toy Show. The organizer's OnTreasure listing (opened November 25, 2026) confirms Saturday December 12, 2026 in Newmarket. The venue, hours, admission and table prices were not readable on the page; the November 14 edition was at The Collective Union Venue, 425 Davis Drive, but that is not confirmed for this date."
     }
   ],
-  "catalogue_revision": "2026-11-25-1"
+  "catalogue_revision": "2026-11-25-2"
 }
