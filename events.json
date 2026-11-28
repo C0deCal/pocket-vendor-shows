@@ -1398,8 +1398,8 @@
       "table_status": "Unknown",
       "application_deadline": "",
       "vendor_url": "https://vaughantoyshow.com/",
-      "source_url": "https://vaughantoyshow.com/",
-      "verified_at": "2026-11-05",
+      "source_url": "https://www.eventbrite.ca/e/vaughan-toy-nostalgia-show-xmas-edition-tickets-1992066800425",
+      "verified_at": "2026-11-27",
       "event_status": "Scheduled",
       "description": "A mixed nostalgia show with 100 advertised vendor tables. Trading cards feature alongside toys, comics, games and memorabilia. Check the organizer for current admission.",
       "daily_hours": [],
@@ -1407,7 +1407,7 @@
       "setup_time": "",
       "is_demo": false,
       "archived": false,
-      "last_checked": "2026-11-24"
+      "last_checked": "2026-11-27"
     },
     {
       "id": "holonight-toronto-2026-12-04",
@@ -3052,5 +3052,5 @@
       "description": "Christmas edition of the Downtown Newmarket TCG & Toy Show. The organizer's OnTreasure listing (opened November 25, 2026) confirms Saturday December 12, 2026 in Newmarket. The venue, hours, admission and table prices were not readable on the page; the November 14 edition was at The Collective Union Venue, 425 Davis Drive, but that is not confirmed for this date."
     }
   ],
-  "catalogue_revision": "2026-11-27-1"
+  "catalogue_revision": "2026-11-27-2"
 }
